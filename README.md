@@ -24,13 +24,13 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [Individuals](#individuals)
 
 ## Projects
-* [Project Name](https://)
+* [Petri](http://wix.github.io/petri) - Wix experiment system (A/B test and feature toggle framework)
 
 ## Companies
-* [Company Name](https://)
+* [Nielsen](http://www.nielsen.com)
 
 ## Individuals
-* [Individual Name](https://)
+* [Amos Haviv](https://github.com/amoshaviv)
 
 
 ## Contributing
