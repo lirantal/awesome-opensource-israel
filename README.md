@@ -26,6 +26,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Projects
 * [Petri](http://wix.github.io/petri) - Wix experiment system (A/B test and feature toggle framework)
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
+
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
