@@ -27,7 +27,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Petri](http://wix.github.io/petri) - Wix experiment system (A/B test and feature toggle framework)
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-
+* [firebase-server](https://github.com/urish/firebase-server) - Firebase Realtime Database server implementation
+* [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular
+* [muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
+* [web-bluetooth-polyfill](https://github.com/urish/web-bluetooth-polyfill) - Windows 10 Web Bluetooth Polyfill
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
