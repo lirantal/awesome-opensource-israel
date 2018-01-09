@@ -31,12 +31,20 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular
 * [muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
 * [web-bluetooth-polyfill](https://github.com/urish/web-bluetooth-polyfill) - Windows 10 Web Bluetooth Polyfill
+* [busmq](https://github.com/capriza/node-busmq) - A high performance, production grade message bus for Node.js
+* [samling](https://github.com/capriza/samling) - Serverless SAML IDP for testing SAML integrations
+* [socketgd](https://github.com/capriza/socketgd) - Guaranteed delivery for socket.io
+* [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node.js HTTP/HTTPS Forward Proxy Agent
+* [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency
+* [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
+* [Capriza](https://www.capriza.com)
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
+* [Nadav Fischer](https://github.com/fujifish)
 
 
 ## Contributing
