@@ -45,7 +45,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Nadav Fischer](https://github.com/fujifish)
-
+* [Elad Moshe](https://github.com/eladmoshe)
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
