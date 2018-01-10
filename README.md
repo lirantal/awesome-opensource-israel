@@ -37,6 +37,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node.js HTTP/HTTPS Forward Proxy Agent
 * [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency
 * [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js
+* [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
