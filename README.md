@@ -38,6 +38,12 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency
 * [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js
 * [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping
+* [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images
+* [express-version-route](https://github.com/lirantal/express-version-route) - A Node.js express middleware that implements API versioning for route controllers
+* [express-security-txt](https://github.com/lirantal/express-security-txt) - A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies
+* [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
+* [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
+
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
