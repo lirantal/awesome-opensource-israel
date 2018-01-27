@@ -18,10 +18,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 # Table of Contents
 
 - [Projects](#projects)
-  - [A Project Name](#a-project-name)
 - [Companies](#companies)
-  - [Your Company Name](#your-company-name)
 - [Individuals](#individuals)
+- [Events](#events)
 
 ## Projects
 * [Petri](http://wix.github.io/petri) - Wix experiment system (A/B test and feature toggle framework)
@@ -53,6 +52,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liran Tal](https://github.com/lirantal)
+
+## Events
+* [TBD](#)
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
