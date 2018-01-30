@@ -54,7 +54,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Liran Tal](https://github.com/lirantal)
 
 ## Events
-* [TBD](#)
+* [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
