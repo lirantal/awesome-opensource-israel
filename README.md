@@ -23,6 +23,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [Events](#events)
 
 ## Projects
+
+### Reusable Code / Tools
+
 * [Petri](http://wix.github.io/petri) - Wix experiment system (A/B test and feature toggle framework)
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
@@ -43,6 +46,21 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
 
+### Data processing, aggregations, statistics and visualizations
+
+* [Israel Crime Data](https://github.com/orihoch/israel-crime-data) - traffic violations and police events, per city/neighborhood (coded), processed from source XLS files to static datapackages, DB and Elasticsearch + Kibana for visualizations
+* [National Library of Israel](https://github.com/orihoch/nli-data-pipelines) - data scraped from the National Library of Israel API, mostly photos and related metadata. Downloads photos to Google Storage, Elasticsearch + Kibana for visualizations.
+* [Knesset Data](https://github.com/hasadna/knesset-data-pipelines) - redesign / reimplementation of [Open Knesset](github.com/hasadna/Open-Knesset) - focusing on getting quality non-biased data about the Knesset.
+
+### Infrastructure
+
+* [The Midburn Kubernetes Environment](https://github.com/Midburn/midburn-k8s) - Docker/Kubernetes infrastructure as code repository which provides the infrastructure for [Midburn](https://midburn.org/) - includes some custom webapps, different DBs, a Drupal installation and other related infra. components.
+* [Beit Hatfutsot Kubernetes Environment](https://github.com/beit-hatfutsot/mojp-k8s) - Docker/Kubernetes infrastructure as code repository which provides the infrastructure for parts of [The Museum Of The Jewish People](https://www.bh.org.il/) - includes frontend/backend webapps, data processing pipelines with Elasticsearch
+
+### Web Apps
+
+* [Spark](https://github.com/Midburn/spark) - (Not Apache Spark!) A NodeJS web-app that provides API and other central services for the Midburn organization.
+* [Calendar Web App](https://github.com/orihoch/calendar-web-app) - Static HTML web app that allows to show calendar appointments from verstaile input data sources. See the [example app](http://orihoch.uumpa.com/calendar-web-app/dist/) showing appointments of The Israeli Prime Minister collected by volunteers
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
