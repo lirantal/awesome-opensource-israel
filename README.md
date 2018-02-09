@@ -42,7 +42,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [express-security-txt](https://github.com/lirantal/express-security-txt) - A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies
 * [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
-
+* [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
