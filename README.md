@@ -19,6 +19,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 - [Projects](#projects)
 - [Companies](#companies)
+- [Organizations](#organizations)
 - [Individuals](#individuals)
 - [Events](#events)
 
@@ -47,6 +48,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Companies
 * [Nielsen](http://www.nielsen.com)
 * [Capriza](https://www.capriza.com)
+
+## Organizations
+* [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
