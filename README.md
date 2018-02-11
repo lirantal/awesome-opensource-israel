@@ -43,6 +43,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
 * [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
+* [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code.
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
