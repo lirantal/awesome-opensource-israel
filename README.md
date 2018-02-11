@@ -49,6 +49,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Companies
 * [Nielsen](http://www.nielsen.com)
 * [Capriza](https://www.capriza.com)
+* [Soluto](https://www.solutotlv.com/)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
