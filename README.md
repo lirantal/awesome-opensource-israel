@@ -45,6 +45,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
 * [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
 * [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code
+* [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger.
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 
 ## Companies
@@ -60,6 +61,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liran Tal](https://github.com/lirantal)
+* [Ido Cohen](https://github.com/idoco)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
