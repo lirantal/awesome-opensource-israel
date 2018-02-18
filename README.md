@@ -46,6 +46,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
 * [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code
 * [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger.
+* [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 
 ## Companies
@@ -62,6 +63,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liran Tal](https://github.com/lirantal)
 * [Ido Cohen](https://github.com/idoco)
+* [Islam Attrash](https://github.com/Attrash-Islam)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
