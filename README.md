@@ -44,14 +44,16 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
 * [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
-* [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code.
+* [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code
 * [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger.
-* [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours.
+* [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
+* [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 
 ## Companies
 * [Nielsen](http://www.nielsen.com)
 * [Capriza](https://www.capriza.com)
-* [Soluto](https://www.solutotlv.com/)
+* [Soluto](https://www.solutotlv.com)
+* [Snyk](https://snyk.io)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
