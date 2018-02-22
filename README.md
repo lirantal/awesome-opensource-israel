@@ -50,10 +50,11 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 
 ## Companies
-* [Nielsen](http://www.nielsen.com)
-* [Capriza](https://www.capriza.com)
-* [Soluto](https://www.solutotlv.com)
-* [Snyk](https://snyk.io)
+* [Nielsen](https://github.com/nielsen-oss)
+* [Capriza](https://github.com/capriza)
+* [Soluto](https://github.com/Soluto)
+* [Snyk](https://github.com/snyk)
+* [ironSource](https://github.com/ironSource)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
