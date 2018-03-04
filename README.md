@@ -55,6 +55,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Soluto](https://github.com/Soluto)
 * [Snyk](https://github.com/snyk)
 * [ironSource](https://github.com/ironSource)
+* [MyHeritage](https://github.com/myheritage)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
