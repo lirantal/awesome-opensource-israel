@@ -54,6 +54,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Capriza](https://www.capriza.com)
 * [Soluto](https://www.solutotlv.com)
 * [Snyk](https://snyk.io)
+* [MyHeritage](https://github.com/myheritage)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
