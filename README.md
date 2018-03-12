@@ -48,6 +48,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger.
 * [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+* [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
