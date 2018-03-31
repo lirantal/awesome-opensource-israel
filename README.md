@@ -49,6 +49,11 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+* [wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
+* [UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
+* [angular-tree-component](https://github.com/500tech/angular-tree-component)
+* [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A Swagger spec extractor for flask-restful
+
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -67,6 +72,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Liran Tal](https://github.com/lirantal)
 * [Ido Cohen](https://github.com/idoco)
 * [Islam Attrash](https://github.com/Attrash-Islam)
+* [Yaron Naveh](https://github.com/yaronn)	
+* [Tal Ater](https://github.com/TalAter)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
