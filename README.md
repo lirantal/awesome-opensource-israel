@@ -57,19 +57,23 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Snyk](https://github.com/snyk)
 * [ironSource](https://github.com/ironSource)
 * [MyHeritage](https://github.com/myheritage)
+* [Peer5](https://github.com/Peer5)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
+* [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit. 
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
-* [Nadav Fischer](https://github.com/fujifish)
-* [Liran Tal](https://github.com/lirantal)
+* [Benjamin Gruenbaum](https://github.com/benjamingr)
 * [Ido Cohen](https://github.com/idoco)
 * [Islam Attrash](https://github.com/Attrash-Islam)
+* [Liran Tal](https://github.com/lirantal)
+* [Nadav Fischer](https://github.com/fujifish)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
+* [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/) - a monthly Open Source coding event that is beginner friendly. 
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 
 ## Contributing
