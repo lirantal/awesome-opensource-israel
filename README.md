@@ -50,6 +50,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
+* [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -72,6 +73,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Liran Tal](https://github.com/lirantal)
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liad Yosef](https://github.com/liady)
+* [Shay Cojocaru](https://github.com/shayc)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
