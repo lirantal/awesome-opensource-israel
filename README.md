@@ -49,6 +49,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+* [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -70,6 +71,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Islam Attrash](https://github.com/Attrash-Islam)
 * [Liran Tal](https://github.com/lirantal)
 * [Nadav Fischer](https://github.com/fujifish)
+* [Liad Yosef](https://github.com/liady)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
