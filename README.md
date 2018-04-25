@@ -74,6 +74,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liad Yosef](https://github.com/liady)
 * [Shay Cojocaru](https://github.com/shayc)
+* [Ori Hoch](https://github.com/OriHoch)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
