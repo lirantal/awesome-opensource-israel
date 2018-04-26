@@ -51,6 +51,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
 * [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
+* [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -76,6 +77,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Liad Yosef](https://github.com/liady)
 * [Shay Cojocaru](https://github.com/shayc)
 * [Ori Hoch](https://github.com/OriHoch)
+* [Nitzan Tomer](https://github.com/nitzantomer)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
