@@ -52,7 +52,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
 * [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
 * [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
-* [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar viewer that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
+* [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
