@@ -55,6 +55,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs
 * [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
+* [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -64,6 +65,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ironSource](https://github.com/ironSource)
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
+* [Linnovate](https://github.com/linnovate)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -79,6 +81,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Liran Tal](https://github.com/lirantal)
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liad Yosef](https://github.com/liady)
+* [Liran Tal](https://github.com/lirantal)
+* [Lior Kesos](https://github.com/liorkesos)
 * [Shay Cojocaru](https://github.com/shayc)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Nitzan Tomer](https://github.com/nitzantomer)
