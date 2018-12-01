@@ -52,6 +52,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
 * [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
 * [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
+* [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs
+* [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 
 ## Companies
@@ -80,6 +82,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Shay Cojocaru](https://github.com/shayc)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Nitzan Tomer](https://github.com/nitzantomer)
+* [Gilad Novik](https://github.com/giladno)
 * [Maty Zisserman](https://github.com/maty21)
 
 ## Events
