@@ -52,6 +52,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
 * [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
 * [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
+* [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs
+* [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -79,6 +81,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Shay Cojocaru](https://github.com/shayc)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Nitzan Tomer](https://github.com/nitzantomer)
+* [Gilad Novik](https://github.com/giladno)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
