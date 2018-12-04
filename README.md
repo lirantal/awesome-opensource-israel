@@ -56,6 +56,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
+* [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.
+This is the Server module(express based).
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -88,6 +90,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nitzan Tomer](https://github.com/nitzantomer)
 * [Gilad Novik](https://github.com/giladno)
 * [Maty Zisserman](https://github.com/maty21)
+* [Orel Balilti](https://github.com/o-b-one)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
