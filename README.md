@@ -58,6 +58,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.
 This is the Server module(express based).
+* [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
