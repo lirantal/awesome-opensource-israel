@@ -77,7 +77,7 @@ This is the Server module(express based).
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
-* [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit. 
+* [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
 
@@ -100,7 +100,7 @@ This is the Server module(express based).
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
-* [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/) - a monthly Open Source coding event that is beginner friendly. 
+* [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/) - a monthly Open Source coding event that is beginner friendly.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 
 ## Contributing
