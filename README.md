@@ -63,6 +63,7 @@ This is the Server module(express based).
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
 * [Hspell](http://hspell.ivrix.org.il/) - a spell checking program for Hebrew language documents.
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
+* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
