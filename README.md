@@ -89,7 +89,6 @@ This is the Server module(express based).
 * [Liran Tal](https://github.com/lirantal)
 * [Nadav Fischer](https://github.com/fujifish)
 * [Liad Yosef](https://github.com/liady)
-* [Liran Tal](https://github.com/lirantal)
 * [Lior Kesos](https://github.com/liorkesos)
 * [Shay Cojocaru](https://github.com/shayc)
 * [Ori Hoch](https://github.com/OriHoch)
