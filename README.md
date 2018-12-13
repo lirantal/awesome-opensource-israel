@@ -97,6 +97,7 @@ This is the Server module(express based).
 * [Maty Zisserman](https://github.com/maty21)
 * [Orel Balilti](https://github.com/o-b-one)
 * [Shlomi Fish](https://www.shlomifish.org/open-source/projects/)
+* [Yaacov Zamir](https://github.com/yaacov)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
