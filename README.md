@@ -59,6 +59,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.
 This is the Server module(express based).
 * [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
+* [react-elastic-carousel](https://github.com/sag1v/react-elastic-carousel) - A flexible and responsive carousel component for react.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
