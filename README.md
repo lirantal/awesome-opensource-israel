@@ -67,6 +67,7 @@ This is the Server module(express based).
 * [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
 * [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
+* [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
