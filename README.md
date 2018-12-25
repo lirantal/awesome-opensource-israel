@@ -104,6 +104,7 @@ This is the Server module(express based).
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Artyom Beilis](https://github.com/artyom-beilis)
+* [Nadav Samet](https://github.com/thesamet)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
