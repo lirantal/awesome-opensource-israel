@@ -102,6 +102,7 @@ This is the Server module(express based).
 * [Shlomi Fish](https://www.shlomifish.org/open-source/projects/)
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Gabor Szabo](https://github.com/szabgab)
+* [Artyom Beilis](https://github.com/artyom-beilis)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
