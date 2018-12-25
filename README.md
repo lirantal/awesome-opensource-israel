@@ -65,6 +65,7 @@ This is the Server module(express based).
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
 * [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
 * [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
+* [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
