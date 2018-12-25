@@ -68,6 +68,7 @@ This is the Server module(express based).
 * [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
+* [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
