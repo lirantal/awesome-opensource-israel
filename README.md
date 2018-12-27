@@ -70,6 +70,8 @@ This is the Server module(express based).
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 * [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A highly customizable, easy-to-use, and elegant, dropdown component for the Vue framework.
+* [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
+* [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -107,6 +109,7 @@ This is the Server module(express based).
 * [Gabor Szabo](https://github.com/szabgab)
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Nadav Samet](https://github.com/thesamet)
+* [Eli Segal](https://github.com/rockem)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
