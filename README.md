@@ -70,6 +70,7 @@ This is the Server module(express based).
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 * [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework
+* [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A highly dynamic vue stars rating component, like google play rating ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
