@@ -69,7 +69,8 @@ This is the Server module(express based).
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
-* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A highly customizable, easy-to-use, and elegant, dropdown component for the Vue framework.
+* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework
+* [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A dynamic stars rating component for vue, similar to Google Play’s rating
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
 * [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
 
