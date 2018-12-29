@@ -74,6 +74,7 @@ This is the Server module(express based).
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
 * [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
 * [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
+* [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
