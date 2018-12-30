@@ -76,6 +76,7 @@ This is the Server module(express based).
 * [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
 * [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
+* [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -114,6 +115,7 @@ This is the Server module(express based).
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
+* [Eran Geva](https://github.com/erasta)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
