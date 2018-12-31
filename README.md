@@ -77,6 +77,7 @@ This is the Server module(express based).
 * [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
+* [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
