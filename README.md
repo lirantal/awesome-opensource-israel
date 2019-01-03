@@ -78,6 +78,8 @@ This is the Server module(express based).
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
+* [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -117,6 +119,7 @@ This is the Server module(express based).
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Tomer Brisker](https://github.com/tbrisker)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
