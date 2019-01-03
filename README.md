@@ -117,6 +117,8 @@ This is the Server module(express based).
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Josh Grossman](https://github.com/tghosth)
+* [Jeremy Hess](https://github.com/yeshess)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
