@@ -88,6 +88,7 @@ This is the Server module(express based).
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
 * [Linnovate](https://github.com/linnovate)
+* [Cloudify](https://github.com/cloudify-cosmo/)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
