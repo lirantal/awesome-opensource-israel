@@ -78,6 +78,8 @@ This is the Server module(express based).
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
+* [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -94,6 +96,7 @@ This is the Server module(express based).
 * [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
+* [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
