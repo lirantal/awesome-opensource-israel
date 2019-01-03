@@ -78,6 +78,16 @@ This is the Server module(express based).
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [VoTT](https://github.com/Microsoft/VoTT) - provides end to end support for generating datasets and validating object detection models from video and image assets.
+* [pyNeurboParser](https://github.com/aribornstein/pyNeurboParser) - Semantic Dependency Parsing (SDP) is the task of recovering sentence-internal predicate–argument relationships for content words in text. This software provides a python wrapper and docker enviorment for the NeurboParser semantic dependency parser library, to enable easier usage.
+* [Presidio](https://github.com/microsoft/presidio) - Context aware, born to the cloud, customizable data loss prevention service (DLP)
+* [Ibex Dashboard](https://github.com/Azure/ibex-dashboard) - dashboarding application that enables building dashboard and templates. It mainly supports Application Insights but data sources and visual components are easily extendable.
+* [Secure SaaS Wallet](https://github.com/Azure/Secured-SaaS-Wallet) - consists of the infrastructure Core modules needed for implementing a SaaS cryptocurrency virtual wallet
+* [ULIS](https://github.com/Microsoft/Universal-Language-Intelligence-Service) - A framework for supporting multi language intent classification with LUIS and Translate
+* [TagAnomaly](https://github.com/Microsoft/TagAnomaly) - a tool for creating labeled data for anomaly detection models. It allows the labeler to select points on a time series, further inspect them by looking at the behavior of other times series at the same time range, or by looking at the raw data that created this time series.
+
+
+
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -117,6 +127,7 @@ This is the Server module(express based).
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Ari Bornstein](https://github.com/aribornstein)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
