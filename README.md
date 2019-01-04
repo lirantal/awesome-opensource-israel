@@ -121,6 +121,8 @@ This is the Server module(express based).
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Josh Grossman](https://github.com/tghosth)
+* [Jeremy Hess](https://github.com/yeshess)
 * [Tomer Brisker](https://github.com/tbrisker)
 
 ## Events
