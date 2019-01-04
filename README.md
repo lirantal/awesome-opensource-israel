@@ -80,6 +80,8 @@ This is the Server module(express based).
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
+* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
+* [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -90,6 +92,7 @@ This is the Server module(express based).
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
 * [Linnovate](https://github.com/linnovate)
+* [Nexmo](https://github.com/Nexmo)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -97,6 +100,7 @@ This is the Server module(express based).
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
 * [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
+* [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby commmunity with a monthly meetup
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
@@ -120,6 +124,9 @@ This is the Server module(express based).
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Josh Grossman](https://github.com/tghosth)
+* [Jeremy Hess](https://github.com/yeshess)
+* [Tomer Brisker](https://github.com/tbrisker)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
