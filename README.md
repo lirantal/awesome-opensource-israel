@@ -93,6 +93,7 @@ This is the Server module(express based).
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
 * [Linnovate](https://github.com/linnovate)
+* [Cloudify](https://github.com/cloudify-cosmo/)
 * [Nexmo](https://github.com/Nexmo)
 
 ## Organizations
