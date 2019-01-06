@@ -78,6 +78,7 @@ This is the Server module(express based).
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
