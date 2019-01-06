@@ -78,6 +78,8 @@ This is the Server module(express based).
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
 * [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [Apollo](https://github.com/logzio/apollo) - A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.
+* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents.
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
@@ -93,6 +95,7 @@ This is the Server module(express based).
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
 * [Linnovate](https://github.com/linnovate)
+* [Logz.io](https://github.com/logzio)
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [Nexmo](https://github.com/Nexmo)
 
