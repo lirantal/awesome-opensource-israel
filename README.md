@@ -85,6 +85,7 @@ This is the Server module(express based).
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
+* [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
