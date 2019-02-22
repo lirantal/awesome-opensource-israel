@@ -135,6 +135,7 @@ This is the Server module(express based).
 * [Tomer Brisker](https://github.com/tbrisker)
 * [Gaal Yahas](https://github.com/gaal)
 * [Yuval Kogman](https://github.com/nothingmuch)
+* [Sawyer X](https://github.com/xsawyerx)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
