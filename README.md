@@ -86,6 +86,7 @@ This is the Server module(express based).
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
 * [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
+* [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
