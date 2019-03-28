@@ -87,6 +87,7 @@ This is the Server module(express based).
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
 * [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
+* [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -100,6 +101,7 @@ This is the Server module(express based).
 * [Logz.io](https://github.com/logzio)
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [Nexmo](https://github.com/Nexmo)
+* [ZOOZ](https://github.com/Zooz)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
