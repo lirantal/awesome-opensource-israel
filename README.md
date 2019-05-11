@@ -88,6 +88,7 @@ This is the Server module(express based).
 * [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 * [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
+* [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
