@@ -143,6 +143,7 @@ This is the Server module(express based).
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Omer Zak](https://zak.co.il/)
 * [Nadav Har'El](http://nadav.harel.org.il/)
+* [Ram Rachum](https://chipmunkdev.com/)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
