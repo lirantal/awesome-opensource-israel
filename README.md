@@ -91,6 +91,7 @@ This is the Server module(express based).
 * [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client
 * [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
+* [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
