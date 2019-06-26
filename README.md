@@ -88,6 +88,11 @@ This is the Server module(express based).
 * [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 * [express-ajv-swagger-validation](https://github.com/Zooz/express-ajv-swagger-validation) - Express middleware for input validation using Swagger (Open API) and ajv
+* [typeform-export-excel](https://github.com/lirantal/typeform-export-excel) - Export a Typeform survey questionnaire to an Excel format
+* [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client
+* [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
+* [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
+* [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -101,6 +106,7 @@ This is the Server module(express based).
 * [Logz.io](https://github.com/logzio)
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [Nexmo](https://github.com/Nexmo)
+* [ZOOZ](https://github.com/Zooz)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -141,6 +147,7 @@ This is the Server module(express based).
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Omer Zak](https://zak.co.il/)
 * [Nadav Har'El](http://nadav.harel.org.il/)
+* [Ram Rachum](https://chipmunkdev.com/)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
