@@ -74,6 +74,26 @@ This is the Server module(express based).
 * [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
 * [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
+* [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
+* [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
+* [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
+* [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
+* [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
+* [Apollo](https://github.com/logzio/apollo) - A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.
+* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents.
+* [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
+* [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
+* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
+* [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
+* [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
+* [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
+* [express-ajv-swagger-validation](https://github.com/Zooz/express-ajv-swagger-validation) - Express middleware for input validation using Swagger (Open API) and ajv
+* [typeform-export-excel](https://github.com/lirantal/typeform-export-excel) - Export a Typeform survey questionnaire to an Excel format
+* [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client
+* [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
+* [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
+* [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -84,12 +104,18 @@ This is the Server module(express based).
 * [MyHeritage](https://github.com/myheritage)
 * [Peer5](https://github.com/Peer5)
 * [Linnovate](https://github.com/linnovate)
+* [Logz.io](https://github.com/logzio)
+* [Cloudify](https://github.com/cloudify-cosmo/)
+* [Nexmo](https://github.com/Nexmo)
+* [ZOOZ](https://github.com/Zooz)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
 * [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
+* [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
+* [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby commmunity with a monthly meetup
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
@@ -112,6 +138,17 @@ This is the Server module(express based).
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Nadav Samet](https://github.com/thesamet)
 * [Eli Segal](https://github.com/rockem)
+* [Eran Geva](https://github.com/erasta)
+* [Josh Grossman](https://github.com/tghosth)
+* [Jeremy Hess](https://github.com/yeshess)
+* [Tomer Brisker](https://github.com/tbrisker)
+* [Gaal Yahas](https://github.com/gaal)
+* [Yuval Kogman](https://github.com/nothingmuch)
+* [Sawyer X](https://github.com/xsawyerx)
+* [Shachar Shemesh](https://www.shemesh.biz/)
+* [Omer Zak](https://zak.co.il/)
+* [Nadav Har'El](http://nadav.harel.org.il/)
+* [Ram Rachum](https://chipmunkdev.com/)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
