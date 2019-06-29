@@ -71,6 +71,7 @@ This is the Server module(express based).
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 * [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework
 * [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A dynamic stars rating component for vue, similar to Google Play’s rating
+* [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
 * [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
 * [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
