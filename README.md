@@ -94,6 +94,9 @@ This is the Server module(express based).
 * [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
 * [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell.
+* [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn.
+* [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn.
+* [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -108,6 +111,7 @@ This is the Server module(express based).
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [Nexmo](https://github.com/Nexmo)
 * [ZOOZ](https://github.com/Zooz)
+* [Walla! CODE](https://github.com/wallacode)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -149,6 +153,7 @@ This is the Server module(express based).
 * [Omer Zak](https://zak.co.il/)
 * [Nadav Har'El](http://nadav.harel.org.il/)
 * [Ram Rachum](https://chipmunkdev.com/)
+* [Eldad Fux](https://github.com/eldadfux)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
