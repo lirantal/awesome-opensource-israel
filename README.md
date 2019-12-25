@@ -97,6 +97,7 @@ This is the Server module(express based).
 * [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn.
 * [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn.
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
+* [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
