@@ -160,7 +160,7 @@ This is the Server module(express based).
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
 * [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/) - a monthly Open Source coding event that is beginner friendly.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
-* [DebConf 20](https://wiki.debian.org/DebConf/20)- The 21st DebConf (Debian Project's developer conference), held in 16-22 of August 2020 in the University of Haifa on Mt. Carmel.
+* [DebConf 20](https://wiki.debian.org/DebConf/20)- The 21st DebConf (Debian Project's developer conference), held in 16-22 of August 2020 in the University of Haifa.
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
