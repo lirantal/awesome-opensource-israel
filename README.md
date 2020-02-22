@@ -155,6 +155,7 @@ This is the Server module(express based).
 * [Nadav Har'El](http://nadav.harel.org.il/)
 * [Ram Rachum](https://chipmunkdev.com/)
 * [Eldad Fux](https://github.com/eldadfux)
+* [Itamar Syn-Hershko](https://github.com/synhershko)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
