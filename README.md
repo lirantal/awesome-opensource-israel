@@ -114,6 +114,7 @@ This is the Server module(express based).
 * [Nexmo](https://github.com/Nexmo)
 * [ZOOZ](https://github.com/Zooz)
 * [Walla! CODE](https://github.com/wallacode)
+* [xs:code](https://github.com/xscode-com)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -156,7 +157,9 @@ This is the Server module(express based).
 * [Nadav Har'El](http://nadav.harel.org.il/)
 * [Ram Rachum](https://chipmunkdev.com/)
 * [Eldad Fux](https://github.com/eldadfux)
+* [Lior Kaplan](https://github.com/kaplanlior)
 * [Itamar Syn-Hershko](https://github.com/synhershko)
+
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
