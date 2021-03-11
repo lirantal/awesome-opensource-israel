@@ -115,6 +115,7 @@ This is the Server module(express based).
 * [ZOOZ](https://github.com/Zooz)
 * [Walla! CODE](https://github.com/wallacode)
 * [xs:code](https://github.com/xscode-com)
+* [Appwrite](https://github.com/appwrite)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
