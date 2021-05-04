@@ -99,6 +99,7 @@ This is the Server module(express based).
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
+* [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -161,6 +162,8 @@ This is the Server module(express based).
 * [Lior Kaplan](https://github.com/kaplanlior)
 * [Itamar Syn-Hershko](https://github.com/synhershko)
 * [Tomer Klein](https://github.com/t0mer)
+* [Moshe Nahmias](https://github.com/moshe742)
+* [Shai Berger](https://github.com/shaib)
 
 
 ## Events
