@@ -160,6 +160,7 @@ This is the Server module(express based).
 * [Eldad Fux](https://github.com/eldadfux)
 * [Lior Kaplan](https://github.com/kaplanlior)
 * [Itamar Syn-Hershko](https://github.com/synhershko)
+* [Tomer Klein](https://github.com/t0mer)
 
 
 ## Events
