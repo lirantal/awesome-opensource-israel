@@ -100,6 +100,8 @@ This is the Server module(express based).
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
+* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
+* [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -164,6 +166,7 @@ This is the Server module(express based).
 * [Tomer Klein](https://github.com/t0mer)
 * [Moshe Nahmias](https://github.com/moshe742)
 * [Shai Berger](https://github.com/shaib)
+* [Natan Yellin](https://natanyellin.com/open-source/)
 
 
 ## Events
