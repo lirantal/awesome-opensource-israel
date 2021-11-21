@@ -168,7 +168,7 @@ This is the Server module(express based).
 * [Tomer Klein](https://github.com/t0mer)
 * [Moshe Nahmias](https://github.com/moshe742)
 * [Shai Berger](https://github.com/shaib)
-* [Natan Yellin](https://natanyellin.com/open-source/)'
+* [Natan Yellin](https://natanyellin.com/open-source/)
 * [Yon Liud](https://github.com/YonLiud)
 
 
