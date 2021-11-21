@@ -102,6 +102,8 @@ This is the Server module(express based).
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
+* [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
+
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -166,7 +168,8 @@ This is the Server module(express based).
 * [Tomer Klein](https://github.com/t0mer)
 * [Moshe Nahmias](https://github.com/moshe742)
 * [Shai Berger](https://github.com/shaib)
-* [Natan Yellin](https://natanyellin.com/open-source/)
+* [Natan Yellin](https://natanyellin.com/open-source/)'
+* [Yon Liud](https://github.com/YonLiud)
 
 
 ## Events
