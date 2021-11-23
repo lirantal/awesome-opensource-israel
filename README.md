@@ -103,7 +103,8 @@ This is the Server module(express based).
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
 * [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
-
+* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
+* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -170,7 +171,7 @@ This is the Server module(express based).
 * [Shai Berger](https://github.com/shaib)
 * [Natan Yellin](https://natanyellin.com/open-source/)
 * [Yon Liud](https://github.com/YonLiud)
-
+* [Tomer Figenblat](https://github.com/TomerFi)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
