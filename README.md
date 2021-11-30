@@ -105,6 +105,7 @@ This is the Server module(express based).
 * [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
+* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -172,6 +173,7 @@ This is the Server module(express based).
 * [Natan Yellin](https://natanyellin.com/open-source/)
 * [Yon Liud](https://github.com/YonLiud)
 * [Tomer Figenblat](https://github.com/TomerFi)
+* [Stav Shamir](https://github.com/stavshamir)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
