@@ -174,6 +174,7 @@ This is the Server module(express based).
 * [Yon Liud](https://github.com/YonLiud)
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Stav Shamir](https://github.com/stavshamir)
+* [Ilan Joselevich](https://github.com/Kranzes)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
