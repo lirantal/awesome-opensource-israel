@@ -99,6 +99,12 @@ This is the Server module(express based).
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
+* [Btoadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF).
+* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about")
+* [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens.
+* [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/).
+* [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container.
+* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
