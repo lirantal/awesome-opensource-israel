@@ -99,6 +99,12 @@ This is the Server module(express based).
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
+* [Btoadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF).
+* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about")
+* [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens.
+* [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/).
+* [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container.
+* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
@@ -106,6 +112,7 @@ This is the Server module(express based).
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
 * [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
+
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -175,6 +182,7 @@ This is the Server module(express based).
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Stav Shamir](https://github.com/stavshamir)
 * [Ilan Joselevich](https://github.com/Kranzes)
+
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
