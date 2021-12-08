@@ -105,6 +105,14 @@ This is the Server module(express based).
 * [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/).
 * [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container.
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed.
+* [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
+* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
+* [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
+* [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
+* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
+* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
+* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
+
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -167,6 +175,13 @@ This is the Server module(express based).
 * [Lior Kaplan](https://github.com/kaplanlior)
 * [Itamar Syn-Hershko](https://github.com/synhershko)
 * [Tomer Klein](https://github.com/t0mer)
+* [Moshe Nahmias](https://github.com/moshe742)
+* [Shai Berger](https://github.com/shaib)
+* [Natan Yellin](https://natanyellin.com/open-source/)
+* [Yon Liud](https://github.com/YonLiud)
+* [Tomer Figenblat](https://github.com/TomerFi)
+* [Stav Shamir](https://github.com/stavshamir)
+* [Ilan Joselevich](https://github.com/Kranzes)
 
 
 ## Events
