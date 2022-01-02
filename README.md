@@ -112,6 +112,7 @@ This is the Server module(express based).
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
 * [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
+* [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks.
 
 
 ## Companies
@@ -130,6 +131,7 @@ This is the Server module(express based).
 * [Walla! CODE](https://github.com/wallacode)
 * [xs:code](https://github.com/xscode-com)
 * [Appwrite](https://github.com/appwrite)
+* [Amplication](https://github.com/amplication)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -182,6 +184,7 @@ This is the Server module(express based).
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Stav Shamir](https://github.com/stavshamir)
 * [Ilan Joselevich](https://github.com/Kranzes)
+* [Yuval Hazaz](https://github.com/yuval-hazaz)
 
 
 ## Events
