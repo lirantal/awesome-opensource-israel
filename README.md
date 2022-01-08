@@ -113,7 +113,9 @@ This is the Server module(express based).
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
 * [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
 * [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks.
-
+* [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back!
+* [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.
+* [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations)
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -132,6 +134,7 @@ This is the Server module(express based).
 * [xs:code](https://github.com/xscode-com)
 * [Appwrite](https://github.com/appwrite)
 * [Amplication](https://github.com/amplication)
+* [Robusta](https://home.robusta.dev/)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
