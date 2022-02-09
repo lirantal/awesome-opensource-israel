@@ -135,7 +135,7 @@ This is the Server module(express based).
 * [Appwrite](https://github.com/appwrite)
 * [Amplication](https://github.com/amplication)
 * [Robusta](https://home.robusta.dev/)
-* [Red Hat] (https://www.redhat.com/en)
+* [Red Hat](https://www.redhat.com/en)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
