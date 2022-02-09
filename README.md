@@ -105,6 +105,11 @@ This is the Server module(express based).
 * [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/).
 * [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container.
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed.
+* [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint.
+* [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it.
+* [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.
+* [Ocr Docker](https://github.com/t0mer/ocr-docker) - About
+ocr-docker is small, Flask powerd web app, helps us to extract text from images and pdf document using OCR.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
