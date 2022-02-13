@@ -121,6 +121,9 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back!
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.
 * [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations)
+* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web
+* [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder
+* [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode)
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -194,6 +197,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Stav Shamir](https://github.com/stavshamir)
 * [Ilan Joselevich](https://github.com/Kranzes)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
+* [Guy Sheffer](https://github.com/guysoft)
 
 
 ## Events
