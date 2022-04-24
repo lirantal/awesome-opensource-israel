@@ -124,6 +124,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode)
+* [Checkov](https://github.com/bridgecrewio) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)  
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -144,6 +145,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Amplication](https://github.com/amplication)
 * [Robusta](https://home.robusta.dev/)
 * [Red Hat](https://www.redhat.com/en)
+* [Bridgecrew](https://github.com/bridgecrewio)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -198,6 +200,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Ilan Joselevich](https://github.com/Kranzes)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Guy Sheffer](https://github.com/guysoft)
+* [Barak Schoster Goihman](https://github.com/schosterbarak)
 
 
 ## Events
