@@ -126,6 +126,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode)
 * [Checkov](https://github.com/bridgecrewio) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)  
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.
+* [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
