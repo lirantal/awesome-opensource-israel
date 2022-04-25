@@ -125,6 +125,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode)
 * [Checkov](https://github.com/bridgecrewio) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)  
+* [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -146,6 +147,7 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Robusta](https://home.robusta.dev/)
 * [Red Hat](https://www.redhat.com/en)
 * [Bridgecrew](https://github.com/bridgecrewio)
+* [Permit.io](https://github.com/permitio)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
@@ -201,6 +203,8 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Guy Sheffer](https://github.com/guysoft)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
+* [Or Weis](https://github.com/orweis)
+* [Asaf Cohen](https://github.com/asafc)
 
 
 ## Events
