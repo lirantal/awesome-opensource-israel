@@ -213,6 +213,8 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/) - a monthly Open Source coding event that is beginner friendly.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [DebConf 20](https://wiki.debian.org/DebConf/20)- The 21st DebConf (Debian Project's developer conference), held in 16-22 of August 2020 in the University of Haifa.
+* [PyConIL](https://pycon.org.il/) - Annual Python conference
+* [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
