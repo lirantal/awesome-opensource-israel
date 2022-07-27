@@ -16,7 +16,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 <br/>
 
 # Table of Contents
-
 - [Projects](#projects)
 - [Companies](#companies)
 - [Organizations](#organizations)
@@ -57,7 +56,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.
-This is the Server module(express based).
 * [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
 * [react-elastic-carousel](https://github.com/sag1v/react-elastic-carousel) - A flexible and responsive carousel component for react.
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
@@ -108,8 +106,7 @@ This is the Server module(express based).
 * [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint.
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it.
 * [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.
-* [Ocr Docker](https://github.com/t0mer/ocr-docker) - About
-ocr-docker is small, Flask powerd web app, helps us to extract text from images and pdf document using OCR.
+* [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
@@ -206,7 +203,6 @@ ocr-docker is small, Flask powerd web app, helps us to extract text from images 
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Or Weis](https://github.com/orweis)
 * [Asaf Cohen](https://github.com/asafc)
-
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
