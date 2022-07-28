@@ -124,6 +124,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Checkov](https://github.com/bridgecrewio) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)  
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers.
+* [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
@@ -146,6 +147,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Red Hat](https://www.redhat.com/en)
 * [Bridgecrew](https://github.com/bridgecrewio)
 * [Permit.io](https://github.com/permitio)
+* [Taboola](https://github.com/taboola)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
