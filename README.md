@@ -125,6 +125,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers.
 * [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.
+* [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
