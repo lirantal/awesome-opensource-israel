@@ -126,6 +126,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers.
 * [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.
 * [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript.
+* [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours.
 
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
