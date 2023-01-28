@@ -149,7 +149,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [xs:code](https://github.com/xscode-com)
 * [Appwrite](https://github.com/appwrite)
 * [Amplication](https://github.com/amplication)
-* [Robusta](https://home.robusta.dev/)
+* [Robusta](https://github.com/robusta-dev)
 * [Red Hat](https://www.redhat.com/en)
 * [Bridgecrew](https://github.com/bridgecrewio)
 * [Permit.io](https://github.com/permitio)
