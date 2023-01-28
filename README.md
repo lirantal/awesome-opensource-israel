@@ -142,7 +142,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nexmo](https://github.com/Nexmo)
 * [ZOOZ](https://github.com/Zooz)
 * [Walla! CODE](https://github.com/wallacode)
-* [xs:code](https://github.com/xscode-com)
 * [Appwrite](https://github.com/appwrite)
 * [Amplication](https://github.com/amplication)
 * [Robusta](https://home.robusta.dev/)
