@@ -135,7 +135,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Companies
 * [Nielsen](https://github.com/nielsen-oss)
 * [Capriza](https://github.com/capriza)
-* [Soluto](https://github.com/Soluto)
 * [Snyk](https://github.com/snyk)
 * [ironSource](https://github.com/ironSource)
 * [MyHeritage](https://github.com/myheritage)
