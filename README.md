@@ -107,6 +107,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it.
 * [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR.
+* [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api
+* [weatheril](https://github.com/t0mer/py-weatheril) - weatheril is an unofficial [IMS](https://ims.gov.il) (Israel Meteorological Service) python API wrapper.
+* [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics.
+* [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
 * [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
