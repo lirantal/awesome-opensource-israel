@@ -171,7 +171,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Meatlbear](https://github.com/metalbear-co)  
 * [Tabnine](https://github.com/codota)
 * [Wing](https://github.com/winglang)  
-* [Amplification]https://github.com/amplication
+* [Amplication]https://github.com/amplication
 * [Teambit](https://github.com/teambit)
 * [Novu](https://github.com/novuhq)  
 * [Synk](https://github.com/snyk/)  
