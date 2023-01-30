@@ -153,6 +153,30 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Bridgecrew](https://github.com/bridgecrewio)
 * [Permit.io](https://github.com/permitio)
 * [Taboola](https://github.com/taboola)
+* [Wix](https://github.com/wix)
+* [Monday](https://github.com/mondaycom)
+* [DragonFly](https://github.com/dragonflydb/dragonfly)
+* [Scylla](https://github.com/scylladb)
+* [Speedb](https://github.com/speedb-io)
+* [DeepChecks](https://github.com/deepchecks)  
+* [CloudQuery](https://github.com/cloudquery)  
+* [Elementary](https://github.com/elementary-data)  
+* [Ariga](https://ariga.io/)  
+* [Treeverse](https://github.com/treeverse)  
+* [Codefresh](https://github.com/codefresh-io)  
+* [Daily.Dev](https://github.com/dailydotdev)  
+* [Datree](https://github.com/datreeio)  
+* [Groundcover](https://github.com/groundcover-com)  
+* [Logz](https://github.com/logzio)  
+* [Meatlbear](https://github.com/metalbear-co)  
+* [Tabnine](https://github.com/codota)
+* [Wing](https://github.com/winglang)  
+* [Amplication]https://github.com/amplication
+* [Teambit](https://github.com/teambit)
+* [Novu](https://github.com/novuhq)  
+* [Snyk](https://github.com/snyk/)  
+* [Armo](https://github.com/armosec)  
+* [Ballerine]https://github.com/ballerine-io
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
