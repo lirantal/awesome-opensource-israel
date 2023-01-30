@@ -174,7 +174,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Amplication]https://github.com/amplication
 * [Teambit](https://github.com/teambit)
 * [Novu](https://github.com/novuhq)  
-* [Synk](https://github.com/snyk/)  
+* [Snyk](https://github.com/snyk/)  
 * [Armo](https://github.com/armosec)  
 * [Ballerine]https://github.com/ballerine-io
 
