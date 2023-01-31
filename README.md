@@ -171,12 +171,13 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Meatlbear](https://github.com/metalbear-co)  
 * [Tabnine](https://github.com/codota)
 * [Wing](https://github.com/winglang)  
-* [Amplication]https://github.com/amplication
+* [Amplication](https://github.com/amplication)
 * [Teambit](https://github.com/teambit)
 * [Novu](https://github.com/novuhq)  
 * [Snyk](https://github.com/snyk/)  
 * [Armo](https://github.com/armosec)  
-* [Ballerine]https://github.com/ballerine-io
+* [Ballerine](https://github.com/ballerine-io)
+* [Overwolf](https://github.com/overwolf)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
