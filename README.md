@@ -176,6 +176,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Armo](https://github.com/armosec)  
 * [Ballerine](https://github.com/ballerine-io)
 * [Overwolf](https://github.com/overwolf)
+* [Final](https://github.com/final-israel)
 
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
