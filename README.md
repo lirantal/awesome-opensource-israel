@@ -134,7 +134,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 ## Companies
 * [Amplication](https://github.com/amplication)
-* [Amplication](https://github.com/amplication)
 * [Appwrite](https://github.com/appwrite)
 * [Ariga](https://ariga.io/)
 * [Armo](https://github.com/armosec)
@@ -154,7 +153,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ironSource](https://github.com/ironSource)
 * [Linnovate](https://github.com/linnovate)
 * [Logz.io](https://github.com/logzio)
-* [Logz](https://github.com/logzio)
 * [Meatlbear](https://github.com/metalbear-co)
 * [Monday](https://github.com/mondaycom)
 * [MyHeritage](https://github.com/myheritage)
