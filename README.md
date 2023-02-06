@@ -243,8 +243,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Meetups / User Groups
 * [JavaScript Israel](https://www.meetup.com/javascript-israel/) - A place for the Israeli Javascript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
-* [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
+* [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
