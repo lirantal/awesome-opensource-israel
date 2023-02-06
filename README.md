@@ -181,10 +181,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Organizations
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
 * [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
-* [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
 * [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
 * [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby commmunity with a monthly meetup
+* [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 
 ## Individuals
 * [Amos Haviv](https://github.com/amoshaviv)
