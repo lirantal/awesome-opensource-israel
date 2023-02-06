@@ -17,15 +17,14 @@ def check_lists_in_file(filename: str) -> None:
             if line.startswith(ORDERED_LIST_PREFIX):
                 current_item = line
                 if (previous_item is not None) and (
-                    previous_item.lower() > current_item.lower()
+                    previous_item.lower() >= current_item.lower()
                 ):
                     raise ValueError(
                         f"The alphabetical order is violated at line {i + 1} in the "
-                        f"file {filename}.\n"
+                        f"file {filename}:\n"
                         f"L{str(i).zfill(ZPAD)}: {previous_item.strip()}\n"
                         f"L{str(i + 1).zfill(ZPAD)}: {current_item.strip()}\n"
-                        "Please switch between the lines and reorder the list "
-                        "alphabetically."
+                        "Please reorder the list alphabetically and avoid duplicates."
                     )
                 previous_item = current_item
             else:
