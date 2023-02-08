@@ -79,6 +79,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail
+* [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts.
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 * [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back!
