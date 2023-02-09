@@ -8,7 +8,7 @@
 
 A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![last push](https://github.com/github/docs/actions/workflows/last-push/badge.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![last commit]([https://shields.io/](https://img.shields.io/github/last-commit/lirantal/awesome-opensource-israel?style=flat-square))
 
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
