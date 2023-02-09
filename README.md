@@ -15,6 +15,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 </div>
 <br/>
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/awesome-opensource-israel?color=blue&style=flat-square)
+
+
 # Table of Contents
 - [Projects](#projects)
 - [Companies](#companies)
