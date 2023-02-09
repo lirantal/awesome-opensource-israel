@@ -8,7 +8,8 @@
 
 A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
