@@ -23,41 +23,41 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [Events](#events)
 
 ## Projects
-* [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client
-* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
-* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java.
-* [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks.
-* [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular
-* [Apollo](https://github.com/logzio/apollo) - A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.
-* [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint.
-* [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.
-* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed.
-* [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.
+* [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/typeform-client?style=flat-square)
+* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square)
+* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square)
+* [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square)
+* [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square)
+* [Apollo](https://github.com/logzio/apollo) - A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/apollo?style=flat-square)
+* [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square)
+* [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite-client?style=flat-square)
+* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/t0mer/Arpspoof-Docker?style=flat-square)
+* [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler. ![GitHub last commit](https://img.shields.io/github/last-commit/taboola/async-profiler-actuator-endpoint?style=flat-square)
 * [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
-* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-* [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies).
-* [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF).
-* [busmq](https://github.com/capriza/node-busmq) - A high performance, production grade message bus for Node.js
-* [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency
-* [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser
-* [Checkov](https://github.com/bridgecrewio) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)
-* [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript ![GitHub last commit](https://img.shields.io/github/yaronn/blessed-contrib?style=flat-square)
+* [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies). ![GitHub last commit](https://img.shields.io/github/last-commit/rockem/blink-java?style=flat-square)
+* [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square)
+* [busmq](https://github.com/capriza/node-busmq) - A high performance, production grade message bus for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/node-busmq?style=flat-square)
+* [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency ![GitHub last commit](https://img.shields.io/github/capriza/capp-cache?style=flat-square)
+* [cboard](https://github.com/cboard-org/cboard) - AAC communication board with text-to-speech for the browser ![GitHub last commit](https://img.shields.io/github/cboard-org/cboard?style=flat-square)
+* [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov?style=flat-square)
+* [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square)
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
-* [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours.
-* [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler
+* [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours. ![GitHub last commit](https://img.shields.io/github/last-commit/gal-dahan/crawling-jobs?style=flat-square)
+* [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/cron-to-quartz?style=flat-square)
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
-* [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder
-* [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.
-* [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container.
-* [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/).
-* [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.
-* [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images
-* [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB
-* [express-ajv-swagger-validation](https://github.com/Zooz/express-ajv-swagger-validation) - Express middleware for input validation using Swagger (Open API) and ajv
-* [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built
-* [express-security-txt](https://github.com/lirantal/express-security-txt) - A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies
-* [express-version-route](https://github.com/lirantal/express-version-route) - A Node.js express middleware that implements API versioning for route controllers
-* [firebase-server](https://github.com/urish/firebase-server) - Firebase Realtime Database server implementation
+* [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square)
+* [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit/?style=flat-square)
+* [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/DeCompose?style=flat-square)
+* [Deepstack Trainer](https://github.com/t0mer/deepstack-trainer) - Simple web application for training & Testing [Deepstack](https://deepstack.cc/). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/deepstack-trainer)?style=flat-square)
+* [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/dockerbot?style=flat-square)
+* [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly?style=flat-square)
+* [dynamodb](https://github.com/giladno/dynamodb) - A wrapper for easy access to DynamoDB ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/dynamodb?style=flat-square)
+* [express-ajv-swagger-validation](https://github.com/Zooz/express-ajv-swagger-validation) - Express middleware for input validation using Swagger (Open API) and ajv ![GitHub last commit](https://img.shields.io/github/last-commit/Zooz/express-ajv-swagger-validation?style=flat-square)
+* [express-boilerplate](https://github.com/giladno/express-boilerplate) - A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/express-boilerplate?style=flat-square)
+* [express-security-txt](https://github.com/lirantal/express-security-txt) - A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/express-security-txt?style=flat-square)
+* [express-version-route](https://github.com/lirantal/express-version-route) - A Node.js express middleware that implements API versioning for route controllers ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/express-version-route?style=flat-square)
+* [firebase-server](https://github.com/urish/firebase-server) - Firebase Realtime Database server implementation ![GitHub last commit](https://img.shields.io/github/last-commit/urish/firebase-server?style=flat-square)
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
 * [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
 * [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
