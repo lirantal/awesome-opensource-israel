@@ -73,15 +73,13 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square)
 * [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/litespeed-js/litespeed.js?style=flat-square)
-* [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/logrotator?style=flat-square)
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square)
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail ![GitHub last commit](https://img.shields.io/github/last-commit/eladnava/mailgen?style=flat-square)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square)
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps. ![GitHub last commit](https://img.shields.io/github/last-commit/linnovate/mean?style=flat-square)
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course) ![GitHub last commit](https://img.shields.io/github/last-commit/maty21/mocha-sidebar?style=flat-square)
-* [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back! ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/mr-mr?style=flat-square)
+* [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back! ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/mr-m?style=flat-square)
 * [muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth) ![GitHub last commit](https://img.shields.io/github/last-commit/urish/muse-js?style=flat-square)
-* [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node.js HTTP/HTTPS Forward Proxy Agent ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/node-proxying-agent?style=flat-square)
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square)
 * [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web 
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square)
@@ -100,21 +98,21 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily. ![GitHub last commit](https://img.shields.io/github/last-commit/moshe742/resume-json-python?style=flat-square)
 * [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations) ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/robusta?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square)
-* [samling](https://github.com/capriza/samling) - Serverless SAML IDP for testing SAML integrations ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/samling?style=flat-square)
-* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents.
+
+
+* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square)
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
-* [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs
-* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output.
-* [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-* [socketgd](https://github.com/capriza/socketgd) - Guaranteed delivery for socket.io
+* [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/sequelize-admin?style=flat-square)
+* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square)
+* [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square)
+* [socketgd](https://github.com/capriza/socketgd) - Guaranteed delivery for socket.io ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/socketgd?style=flat-square)
 * [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
-* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot
-* [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.
-* [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.
-* [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers.
-* [Tweek](https://github.com/soluto/tweek) -  Feature management solution for customizing applications and system behavior without deploying new code
-* [typeform-export-excel](https://github.com/lirantal/typeform-export-excel) - Export a Typeform survey questionnaire to an Excel format
-* [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
+* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot ![GitHub last commit](https://img.shields.io/github/last-commit/springwolf/springwolf-core?style=flat-square)
+* [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code. ![GitHub last commit](https://img.shields.io/github/last-commit/sugoiJS/server?style=flat-square)
+* [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale. ![GitHub last commit](https://img.shields.io/github/last-commit/ticktok-io/ticktok.io?style=flat-square)
+* [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) 
+* [typeform-export-excel](https://github.com/lirantal/typeform-export-excel) - Export a Typeform survey questionnaire to an Excel format ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/typeform-export-excel?style=flat-square)
+* [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code ![GitHub last commit](https://img.shields.io/github/last-commit/urish/typewiz?style=flat-square)
 * [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
 * [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics.
