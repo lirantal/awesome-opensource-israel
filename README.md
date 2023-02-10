@@ -114,7 +114,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square)
 * [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/voicy?style=flat-square)
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components. ![GitHub last commit](https://img.shields.io/github/last-commit/matfish2/vue-tables-2?style=flat-square)
-* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework ![GitHub last commit](https://img.shields.io/github/last-commit/onathanDn/vue-dropdown?style=flat-square)
+* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanDn/vue-dropdown?style=flat-square)
 * [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A dynamic stars rating component for vue, similar to Google Play’s rating ![GitHub last commit](https://img.shields.io/github/last-commit/vue-stars-rating?style=flat-square)
 * [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanDn/vue-toggle-btn?style=flat-square)
 * [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Wazy?style=flat-square)
@@ -123,7 +123,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals ![GitHub last commit](https://img.shields.io/github/last-commit/liady/webpack-node-externals?style=flat-square)
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square)
-* [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping ![GitHub last commit](https://img.shields.io/github/last-commit/nielsen-oss/yap-csv)?style=flat-square)
+* [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping ![GitHub last commit](https://img.shields.io/github/last-commit/nielsen-oss/yap-csv?style=flat-square)
 
 ## Companies
 * [Amplication](https://github.com/amplication)
