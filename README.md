@@ -98,14 +98,11 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily. ![GitHub last commit](https://img.shields.io/github/last-commit/moshe742/resume-json-python?style=flat-square)
 * [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations) ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/robusta?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square)
-
-
 * [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square)
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 * [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/sequelize-admin?style=flat-square)
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square)
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square)
-* [socketgd](https://github.com/capriza/socketgd) - Guaranteed delivery for socket.io ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/socketgd?style=flat-square)
 * [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
 * [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot ![GitHub last commit](https://img.shields.io/github/last-commit/springwolf/springwolf-core?style=flat-square)
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code. ![GitHub last commit](https://img.shields.io/github/last-commit/sugoiJS/server?style=flat-square)
@@ -113,20 +110,20 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) 
 * [typeform-export-excel](https://github.com/lirantal/typeform-export-excel) - Export a Typeform survey questionnaire to an Excel format ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/typeform-export-excel?style=flat-square)
 * [TypeWiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code ![GitHub last commit](https://img.shields.io/github/last-commit/urish/typewiz?style=flat-square)
-* [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn.
-* [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing.
-* [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics.
-* [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
-* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework
-* [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A dynamic stars rating component for vue, similar to Google Play’s rating
-* [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
-* [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation.
-* [weatheril](https://github.com/t0mer/py-weatheril) - weatheril is an unofficial [IMS](https://ims.gov.il) (Israel Meteorological Service) python API wrapper.
-* [web-bluetooth-polyfill](https://github.com/urish/web-bluetooth-polyfill) - Windows 10 Web Bluetooth Polyfill
+* [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/utopia-php/framework?style=flat-square)
+* [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square)
+* [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/voicy?style=flat-square)
+* [Vue Tables 2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components. ![GitHub last commit](https://img.shields.io/github/last-commit/matfish2/vue-tables-2?style=flat-square)
+* [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - A Highly Customizable, easy-to-use elegant dropdown component for Vue framework ![GitHub last commit](https://img.shields.io/github/last-commit/onathanDn/vue-dropdown?style=flat-square)
+* [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A dynamic stars rating component for vue, similar to Google Play’s rating ![GitHub last commit](https://img.shields.io/github/last-commit/vue-stars-rating?style=flat-square)
+* [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanDn/vue-toggle-btn?style=flat-square)
+* [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Wazy?style=flat-square)
+* [weatheril](https://github.com/t0mer/py-weatheril) - weatheril is an unofficial [IMS](https://ims.gov.il) (Israel Meteorological Service) python API wrapper. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/py-weatheril?style=flat-square)
+* [web-bluetooth-polyfill](https://github.com/urish/web-bluetooth-polyfill) - Windows 10 Web Bluetooth Polyfill ![GitHub last commit](https://img.shields.io/github/last-commit/urish/web-bluetooth-polyfill?style=flat-square)
 * [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
-* [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals
-* [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens.
-* [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping
+* [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals ![GitHub last commit](https://img.shields.io/github/last-commit/liady/webpack-node-externals?style=flat-square)
+* [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square)
+* [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping ![GitHub last commit](https://img.shields.io/github/last-commit/nielsen-oss/yap-csv)?style=flat-square)
 
 ## Companies
 * [Amplication](https://github.com/amplication)
