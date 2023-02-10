@@ -77,30 +77,30 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square)
 * [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail ![GitHub last commit](https://img.shields.io/github/last-commit/eladnava/mailgen?style=flat-square)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square)
-* [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
-* [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
-* [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back!
-* [muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
-* [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node.js HTTP/HTTPS Forward Proxy Agent
-* [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR.
-* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web
-* [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.
+* [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps. ![GitHub last commit](https://img.shields.io/github/last-commit/linnovate/mean?style=flat-square)
+* [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course) ![GitHub last commit](https://img.shields.io/github/last-commit/maty21/mocha-sidebar?style=flat-square)
+* [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back! ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/mr-mr?style=flat-square)
+* [muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth) ![GitHub last commit](https://img.shields.io/github/last-commit/urish/muse-js?style=flat-square)
+* [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node.js HTTP/HTTPS Forward Proxy Agent ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/node-proxying-agent?style=flat-square)
+* [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square)
+* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web 
+* [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square)
 * [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
-* [Petri](https://github.com/wix-incubator/petri) - Wix experiment system (A/B test and feature toggle framework)
-* [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework
-* [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again."
+* [Petri](https://github.com/wix-incubator/petri) - Wix experiment system (A/B test and feature toggle framework) ![GitHub last commit](https://img.shields.io/github/last-commit/wix-incubator/petri?style=flat-square)
+* [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework ![GitHub last commit](https://img.shields.io/github/last-commit/Zooz/predator?style=flat-square)
+* [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square)
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
-* [react-elastic-carousel](https://github.com/sag1v/react-elastic-carousel) - A flexible and responsive carousel component for react.
-* [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-* [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages.
-* [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources.
-* [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript.
-* [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily.
-* [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations)
-* [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it.
-* [samling](https://github.com/capriza/samling) - Serverless SAML IDP for testing SAML integrations
+* [react-elastic-carousel](https://github.com/sag1v/react-elastic-carousel) - A flexible and responsive carousel component for react. ![GitHub last commit](https://img.shields.io/github/last-commit/sag1v/react-elastic-carousel?style=flat-square)
+* [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square)
+* [Reconstant](https://github.com/aantn/reconstant) - Reconstant lets you share constant and enum definitions between programming languages. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/reconstant?style=flat-square)
+* [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources. ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash?style=flat-square)
+* [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square)
+* [resume-json-python](https://github.com/moshe742/resume-json-python) - A project to create your resume as JSON and be able to style it easily. ![GitHub last commit](https://img.shields.io/github/last-commit/moshe742/resume-json-python?style=flat-square)
+* [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations) ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/robusta?style=flat-square)
+* [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square)
+* [samling](https://github.com/capriza/samling) - Serverless SAML IDP for testing SAML integrations ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/samling?style=flat-square)
 * [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents.
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 * [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs
