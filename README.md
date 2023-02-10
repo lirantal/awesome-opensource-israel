@@ -58,26 +58,25 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [firebase-server](https://github.com/urish/firebase-server) - Firebase Realtime Database server implementation ![GitHub last commit](https://img.shields.io/github/last-commit/urish/firebase-server?style=flat-square)
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
 * [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
-* [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands
-* [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode)
-* [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm.
-* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about")
+* [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands ![GitHub last commit](https://img.shields.io/github/last-commit/fugazi-io/webclient?style=flat-square)
+* [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square)
+* [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square)
+* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square)
 * [Hspell](http://hspell.ivrix.org.il/) - a spell checking program for Hebrew language documents.
-* [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell.
+* [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell. ![GitHub last commit](https://img.shields.io/github/last-commit/eranroz/HspellPy?style=flat-square)
 * [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
-* [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours
-* [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger.
+* [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours ![GitHub last commit](https://img.shields.io/github/last-commit/Attrash-Islam/infinite-autocomplete?style=flat-square)
+* [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger. ![GitHub last commit](https://img.shields.io/github/last-commit/idoco/intergram?style=flat-square)
 * [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
-* [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it.
-* [Kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
-* [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
+* [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it. ![GitHub last commit](https://img.shields.io/github/last-commit/erasta/JsonChangeVals?style=flat-square)
+* [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE. 
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
-* [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses
-* [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn.
-* [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js
-* [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api
-* [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail
-* [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts.
+* [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square)
+* [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/litespeed-js/litespeed.js?style=flat-square)
+* [logrotator](https://github.com/capriza/logrotator) - Easy log rotation in pure Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/capriza/logrotator?style=flat-square)
+* [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square)
+* [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail ![GitHub last commit](https://img.shields.io/github/last-commit/eladnava/mailgen?style=flat-square)
+* [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square)
 * [mean.io](https://github.com/linnovate/mean) - Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.
 * [mocha-sidebar](https://github.com/maty21/mocha-sidebar) - Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)
 * [Mr. M](https://github.com/robusta-dev/mr-m) - Need to easily assume AWS IAM roles? Mr. M has your back!
