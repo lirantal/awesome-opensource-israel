@@ -132,7 +132,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Armo](https://github.com/armosec)
 * [Ballerine](https://github.com/ballerine-io)
 * [Bridgecrew](https://github.com/bridgecrewio)
-* [Capriza](https://github.com/capriza)
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [CloudQuery](https://github.com/cloudquery)
 * [Codefresh](https://github.com/codefresh-io)
