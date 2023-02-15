@@ -187,6 +187,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Erez Birenholz](https://github.com/ErezBiren)
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gilad Novik](https://github.com/giladno)
