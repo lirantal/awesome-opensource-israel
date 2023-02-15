@@ -38,6 +38,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies). ![GitHub last commit](https://img.shields.io/github/last-commit/rockem/blink-java?style=flat-square)
 * [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square)
 * [capp-cache](https://github.com/capriza/capp-cache) - Cross Browser Offline Resource Persistency
+* [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square)
 * [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov?style=flat-square)
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square)
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
@@ -186,6 +187,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
+* [Erez Birenholz](https://github.com/ErezBiren)
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gilad Novik](https://github.com/giladno)
