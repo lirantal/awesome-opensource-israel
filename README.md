@@ -156,6 +156,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Overwolf](https://github.com/overwolf)
 * [Peer5](https://github.com/Peer5)
 * [Permit.io](https://github.com/permitio)
+* [qwikifiers](https://github.com/qwikifiers)
 * [Red Hat](https://www.redhat.com/en)
 * [Robusta](https://github.com/robusta-dev)
 * [Scylla](https://github.com/scylladb)
