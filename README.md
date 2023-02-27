@@ -209,7 +209,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 * [yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping ![GitHub last commit](https://img.shields.io/github/last-commit/nielsen-oss/yap-csv?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/nielsen-oss/yap-csv?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/nielsen-oss/yap-csv?style=flat-square)
 
-
 ## Companies
 * [Amplication](https://github.com/amplication)
 * [Appwrite](https://github.com/appwrite)
@@ -240,6 +239,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Overwolf](https://github.com/overwolf)
 * [Peer5](https://github.com/Peer5)
 * [Permit.io](https://github.com/permitio)
+* [qwikifiers](https://github.com/qwikifiers)
 * [Red Hat](https://www.redhat.com/en)
 * [Robusta](https://github.com/robusta-dev)
 * [Scylla](https://github.com/scylladb)
