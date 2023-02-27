@@ -43,7 +43,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Arpspoof-Docker?style=flat-square)
 * [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler. ![GitHub last commit](https://img.shields.io/github/last-commit/taboola/async-profiler-actuator-endpoint?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/taboola/async-profiler-actuator-endpoint?style=flat-square)
-*  [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
+* [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript ![GitHub last commit](https://img.shields.io/github/last-commit/yaronn/blessed-contrib?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yaronn/blessed-contrib?style=flat-square)
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies). ![GitHub last commit](https://img.shields.io/github/last-commit/rockem/blink-java?style=flat-square)
@@ -58,12 +58,12 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square)
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cloudify-cosmo/cloudify-manager?style=flat-square)
-*  [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
+* [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS).
 * [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours. ![GitHub last commit](https://img.shields.io/github/last-commit/gal-dahan/crawling-jobs?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/gal-dahan/crawling-jobs?style=flat-square)
 * [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) - Node.js library to convert unix or linux CRON syntax to Quartz Scheduler ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/cron-to-quartz?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/cron-to-quartz?style=flat-square)
-*  [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
+* [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit?style=flat-square)
@@ -88,8 +88,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/express-version-route?style=flat-square)
 * [firebase-server](https://github.com/urish/firebase-server) - Firebase Realtime Database server implementation ![GitHub last commit](https://img.shields.io/github/last-commit/urish/firebase-server?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/urish/firebase-server?style=flat-square)
-*  [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
-*  [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
+* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers.
+* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
 * [Fugazi](https://github.com/fugazi-io/webclient) - A web based terminal application for executing local and remote commands ![GitHub last commit](https://img.shields.io/github/last-commit/fugazi-io/webclient?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/fugazi-io/webclient?style=flat-square)
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square)
@@ -98,19 +98,19 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 * [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
-*  [Hspell](http://hspell.ivrix.org.il/) - a spell checking program for Hebrew language documents.
+* [Hspell](http://hspell.ivrix.org.il/) - a spell checking program for Hebrew language documents.
 * [HspellPy](https://github.com/eranroz/HspellPy) - A Python wrapper for Hspell. ![GitHub last commit](https://img.shields.io/github/last-commit/eranroz/HspellPy?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/eranroz/HspellPy?style=flat-square)
-*  [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
+* [HTML-Widgets-NavMenu](http://web-cpan.shlomifish.org/modules/HTML-Widgets-NavMenu/) - a Perl distribution for generating HTML navigation menus.
 * [infinite-autocomplete](https://github.com/Attrash-Islam/infinite-autocomplete) - Pluggable infinite-autocomplete component that can accept any implementations of yours ![GitHub last commit](https://img.shields.io/github/last-commit/Attrash-Islam/infinite-autocomplete?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Attrash-Islam/infinite-autocomplete?style=flat-square)
 * [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger. ![GitHub last commit](https://img.shields.io/github/last-commit/idoco/intergram?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/idoco/intergram?style=flat-square)
-*  [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
+* [Israeli Queue](https://pypi.org/project/IsraeliQueue/) - A Library to add a variation of Priority Queues where instead of associating priority with the element to be enqueued, the priority is implicitly derived using the "friend" element and it joins right at the back end of the group that the friend belongs to.
 * [JsonChangeVals](https://github.com/erasta/JsonChangeVals) - Translating your JSON structure without paying for it. ![GitHub last commit](https://img.shields.io/github/last-commit/erasta/JsonChangeVals?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/erasta/JsonChangeVals?style=flat-square)
-*  [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE. 
-*  [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
+* [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE. 
+* [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square)
 * [Litespeed.js](https://github.com/litespeed-js/litespeed.js) - Lite & fast micro javascript framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/litespeed-js/litespeed.js?style=flat-square)
@@ -131,19 +131,19 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/urish/muse-js?style=flat-square)
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square)
-*  [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web 
+* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web 
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
-*  [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
-*  [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
-*  [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
+* [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine).
+* [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [Petri](https://github.com/wix-incubator/petri) - Wix experiment system (A/B test and feature toggle framework) ![GitHub last commit](https://img.shields.io/github/last-commit/wix-incubator/petri?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/wix-incubator/petri?style=flat-square)
 * [Predator](https://github.com/Zooz/predator) - An open-source distributed performance testing framework ![GitHub last commit](https://img.shields.io/github/last-commit/Zooz/predator?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Zooz/predator?style=flat-square)
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cool-RR/PySnooper?style=flat-square)
-*  [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
+* [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 * [react-elastic-carousel](https://github.com/sag1v/react-elastic-carousel) - A flexible and responsive carousel component for react. ![GitHub last commit](https://img.shields.io/github/last-commit/sag1v/react-elastic-carousel?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/sag1v/react-elastic-carousel?style=flat-square)
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square)
@@ -162,14 +162,14 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
 * [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/logzio/sawmill?style=flat-square)
-*  [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
+* [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
 * [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/sequelize-admin?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/giladno/sequelize-admin?style=flat-square)
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/snyk/snyk?style=flat-square)
-*  [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
+* [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
 * [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot ![GitHub last commit](https://img.shields.io/github/last-commit/springwolf/springwolf-core?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/springwolf/springwolf-core?style=flat-square)
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code. ![GitHub last commit](https://img.shields.io/github/last-commit/sugoiJS/server?style=flat-square)
@@ -202,7 +202,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/py-weatheril?style=flat-square)
 * [web-bluetooth-polyfill](https://github.com/urish/web-bluetooth-polyfill) - Windows 10 Web Bluetooth Polyfill ![GitHub last commit](https://img.shields.io/github/last-commit/urish/web-bluetooth-polyfill?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/urish/web-bluetooth-polyfill?style=flat-square)
-*  [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
+* [Webilder](http://www.webilder.org/) - a Flickr wallpaper downloader.
 * [webpack-node-externals](https://github.com/liady/webpack-node-externals) - A Webpack plugin to list all node modules as bundle externals ![GitHub last commit](https://img.shields.io/github/last-commit/liady/webpack-node-externals?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/liady/webpack-node-externals?style=flat-square)
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square)
