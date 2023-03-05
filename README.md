@@ -24,6 +24,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 ## Projects
 * [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/typeform-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/typeform-client?style=flat-square)
+* [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/typeform-client?style=flat-square)
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
@@ -268,6 +269,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Amos Szust](https://github.com/AmosSzust)
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Asaf Cohen](https://github.com/asafc)
+* [Almog Baku](https://github.com/AlmogBaku)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Benjamin Gruenbaum](https://github.com/benjamingr)
 * [Eldad Fux](https://github.com/eldadfux)
