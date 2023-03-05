@@ -25,6 +25,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Projects
 * [@lirantal/typeform-client](https://github.com/lirantal/typeform-client) - a friendlier Typeform Node.js API client ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/typeform-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/typeform-client?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/typeform-client?style=flat-square)
+* [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
@@ -264,6 +266,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 
 ## Individuals
+* [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Amos Szust](https://github.com/AmosSzust)
 * [Artyom Beilis](https://github.com/artyom-beilis)
