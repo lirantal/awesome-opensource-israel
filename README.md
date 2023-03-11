@@ -22,41 +22,87 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [Individuals](#individuals)
 - [Events](#events)
 
-## Projects
+## Projects by main language
+
+- [c](#c)
+- [css](#css)
+- [go](#go)
+- [html](#html)
+- [java](#java)
+- [javascript](#javascript)
+- [objective-c](#objective-c)
+- [php](#php)
+- [python](#python)
+- [ruby](#ruby)
+- [rust](#rust)
+- [shell](#shell)
+- [typeScript](#typescript)
+- [vue](#vue)
+- [unknown language](#unknown-language)
+
+### c
+* [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
+
+### css
+* [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square)
+
+
+### go
 * [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
-* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
-* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/TomerFi/alexa-skills-tester?style=flat-square "GitHub stars")
-* [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
-* [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/urish/angular2-moment?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/urish/angular2-moment?style=flat-square "GitHub stars")
-* [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/apprise-api-bridge?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
-* [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/appwrite/appwrite?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square)
-* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/t0mer/Arpspoof-Docker?style=flat-square)
-* [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler. ![GitHub last commit](https://img.shields.io/github/last-commit/taboola/async-profiler-actuator-endpoint?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/taboola/async-profiler-actuator-endpoint?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/taboola/async-profiler-actuator-endpoint?style=flat-square)
-* [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
-* [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line. ![GitHub last commit](https://img.shields.io/github/last-commit/MordechaiHadad/bob?style=flat-square%20%22GitHub%20last%20commit%22 "Github last commit") ![GitHub top language](https://img.shields.io/github/languages/top/MordechaiHadad/bob?style=flat-square%20%22GitHub%20top%20language%22 "Github top language") ![Github stars](https://img.shields.io/github/stars/MordechaiHadad/bob?style=flat-square "Github stars")
+* [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
+![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/otterize/network-mapper?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/otterize/network-mapper?style=flat-square)
+
+
+### html
 * [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/broadlinkmanager-docker?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/broadlinkmanager-docker?style=flat-square "GitHub stars")
-* [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
+* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/gotenberg-ui?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
+* [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
+
+
+ ### java
+* [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TomerFi/alexa-skills-tester?style=flat-square "GitHub stars")
+* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
+* [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler. ![GitHub last commit](https://img.shields.io/github/last-commit/taboola/async-profiler-actuator-endpoint?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/taboola/async-profiler-actuator-endpoint?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/taboola/async-profiler-actuator-endpoint?style=flat-square)
+* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/logzio/sawmill?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/logzio/sawmill?style=flat-square)
+* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot ![GitHub last commit](https://img.shields.io/github/last-commit/springwolf/springwolf-core?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/springwolf/springwolf-core?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/springwolf/springwolf-core?style=flat-square)
+
+### javascript
+* [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours. ![GitHub last commit](https://img.shields.io/github/last-commit/gal-dahan/crawling-jobs?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/gal-dahan/crawling-jobs?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/gal-dahan/crawling-jobs?style=flat-square)
+* [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/dockly?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square "GitHub stars")
+* [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/licenseye?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
+
+### objective-c
+* [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/wix/react-native-navigation?style=flat-square)
+
+### php
+* [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/utopia-php/framework?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/utopia-php/framework?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/utopia-php)
+### python
+* [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/apprise-api-bridge?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
+* [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/Arpspoof-Docker?style=flat-square)
 * [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/bridgecrewio/checkov?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square "GitHub stars")
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/cloudify-cosmo/cloudify-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cloudify-cosmo/cloudify-manager?style=flat-square)
-* [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS). 
-* [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours. ![GitHub last commit](https://img.shields.io/github/last-commit/gal-dahan/crawling-jobs?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/gal-dahan/crawling-jobs?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/gal-dahan/crawling-jobs?style=flat-square)
-* [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
-* [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/robusta-dev/debug-toolkit?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/robusta-dev/debug-toolkit?style=flat-square)
 * [DeCompose](https://github.com/t0mer/DeCompose) - Create compose file for any existing container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/DeCompose?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/DeCompose?style=flat-square)
@@ -65,70 +111,84 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/deepstack-trainer?style=flat-square "GitHub stars")
 * [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/dockerbot?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/dockerbot?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/dockerbot?style=flat-square)
-* [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/dockly?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square "GitHub stars")
-* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
-* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire. 
-* [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
-* [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
-* [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/gotenberg-ui?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
-* [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
-* [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
-* [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/licenseye?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ma-nish?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ma-nish?style=flat-square)
-* [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
-* [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square)
-* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web. 
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/permitio/opal?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
-* [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine). 
-* [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
-* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cool-RR/PySnooper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cool-RR/PySnooper?style=flat-square)
-* [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
-* [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/wix/react-native-navigation?style=flat-square)
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources. ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/getredash/redash?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=flat-square)
-* [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/remult/remult?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat-square)
 * [Robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations) ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/robusta?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/robusta-dev/robusta?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/robusta-dev/robusta?style=flat-square)
-* [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
-* [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/logzio/sawmill?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/logzio/sawmill?style=flat-square)
-* [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
-* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/aantn/smag?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
-* [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/snyk/snyk?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/snyk/snyk?style=flat-square)
-* [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
-* [Springwolf](https://github.com/springwolf/springwolf-core) - Automated documentation for async APIs built with Spring Boot ![GitHub last commit](https://img.shields.io/github/last-commit/springwolf/springwolf-core?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/springwolf/springwolf-core?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/springwolf/springwolf-core?style=flat-square)
-* [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
-* [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/utopia-php/framework?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/utopia-php/framework?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/utopia-php)
-* [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/vest?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/ealush/vest?style=flat-square)
 * [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/voicy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/voicy?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/voicy?style=flat-square)
 * [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Wazy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Wazy?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Wazy?style=flat-square)
 * [weatheril](https://github.com/t0mer/py-weatheril) - weatheril is an unofficial [IMS](https://ims.gov.il) (Israel Meteorological Service) python API wrapper. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/py-weatheril?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/py-weatheril?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/py-weatheril?style=flat-square)
-* [WhatsNext](https://stockdiv.com/whatsnext/#/) [[Server](https://github.com/AmosSzust/whatsnext-server) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-server?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-server?style=flat-square) | [Client](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square)] - WhatsNext, connect through similar life events.
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
+
+### ruby
+* [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
+
+### rust
+* [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line. ![GitHub last commit](https://img.shields.io/github/last-commit/MordechaiHadad/bob?style=flat-square%20%22GitHub%20last%20commit%22 "Github last commit") ![GitHub top language](https://img.shields.io/github/languages/top/MordechaiHadad/bob?style=flat-square%20%22GitHub%20top%20language%22 "Github top language") ![Github stars](https://img.shields.io/github/stars/MordechaiHadad/bob?style=flat-square "Github stars")
+* [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/aantn/smag?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
+* [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
+
+### shell
+* [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
+* [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
+
+
+ ### typescript
+* [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
+* [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/urish/angular2-moment?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/urish/angular2-moment?style=flat-square "GitHub stars")
+* [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/appwrite/appwrite?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square)
+
+* [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
+
+* [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
+* [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/remult/remult?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat-square)
+* [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/snyk/snyk?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/snyk/snyk?style=flat-square)
+* [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/vest?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ealush/vest?style=flat-square)
+
+
+* [WhatsNext (Server)](https://stockdiv.com/whatsnext/#/) -  WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-server) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-server?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-server?style=flat-square)
+
+### vue
+* [WhatsNext (Client)](https://stockdiv.com/whatsnext/#/) - WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square) 
+
+### unknown language
+* [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
+* [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS). 
+* [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
+* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire. 
+* [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
+* [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
+* [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web.
+* [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine). 
+* [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
+* [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
+* [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
+* [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
+ 
+
 
  ### Old Projects
  
