@@ -91,6 +91,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/permitio/opal?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
 * [OSv](http://osv.io/) - an operating system for running a single Java or POSIX process (in a virtual machine). 
+* [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
+![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/otterize/network-mapper?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/otterize/network-mapper?style=flat-square)
 * [OWASP Glue Tool Project](https://www.owasp.org/index.php/OWASP_Glue_Tool_Project#tab=Main) - A tools based project intended to make security automation easier.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cool-RR/PySnooper?style=flat-square)
@@ -247,6 +251,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nexmo](https://github.com/Nexmo)
 * [Nielsen](https://github.com/nielsen-oss)
 * [Novu](https://github.com/novuhq)
+* [Otterize](https://github.com/otterize)
 * [Overwolf](https://github.com/overwolf)
 * [Peer5](https://github.com/Peer5)
 * [Permit.io](https://github.com/permitio)
