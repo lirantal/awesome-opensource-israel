@@ -306,6 +306,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nexmo](https://github.com/Nexmo)
 * [Nielsen](https://github.com/nielsen-oss)
 * [Novu](https://github.com/novuhq)
+* [Otterize](https://github.com/otterize)
 * [Overwolf](https://github.com/overwolf)
 * [Peer5](https://github.com/Peer5)
 * [Permit.io](https://github.com/permitio)
