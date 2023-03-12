@@ -333,7 +333,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby commmunity with a monthly meetup
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 
-## Individuals
+## Israeli open source activists
+> As Israelis who are passionate about open source, we would like to extend our willingness to assist anyone who needs help in this field. Please feel free to reach out to us for any support or guidance.
+We'll try to help as much as we can.
 * [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Amos Szust](https://github.com/AmosSzust)
