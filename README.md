@@ -338,10 +338,12 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 We'll try to help as much as we can.
 * [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
+* [Barak Schoster Goihman](https://github.com/schosterbarak)
+
+
 * [Amos Szust](https://github.com/AmosSzust)
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Asaf Cohen](https://github.com/asafc)
-* [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Benjamin Gruenbaum](https://github.com/benjamingr)
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
