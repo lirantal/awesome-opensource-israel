@@ -102,6 +102,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Arpspoof-Docker?style=flat-square)
 * [C4dynamics](https://github.com/C4dynamics/C4dynamics) - A framework for algorithm engineers who work with physical systems. ![GitHub last commit](https://img.shields.io/github/last-commit/C4dynamics/C4dynamics?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/C4dynamics/C4dynamics?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/C4dynamics/C4dynamics?style=flat-square)
+* [Cachier](https://github.com/python-cachier/cachier) - Persistent, stale-free, local and cross-machine caching for Python functions. ![GitHub last commit](https://img.shields.io/github/last-commit/python-cachier/cachier?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/python-cachier/cachier?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square)
 * [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/bridgecrewio/checkov?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square "GitHub stars")
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/cloudify-cosmo/cloudify-manager?style=flat-square)
@@ -118,6 +120,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ma-nish?style=flat-square)
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/permitio/opal?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
+* [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames. ![GitHub last commit](https://img.shields.io/github/last-commit/pdpipe/pdpipe?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/pdpipe/pdpipe?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square)
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cool-RR/PySnooper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cool-RR/PySnooper?style=flat-square)
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources. ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/getredash/redash?style=flat-square)
@@ -178,6 +182,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [WhatsNext (Client)](https://stockdiv.com/whatsnext/#/) - WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square) 
 
 ### unknown language
+* [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data) - A list of Twitter datasets and related resources. ![GitHub stars](https://img.shields.io/github/stars/shaypal5/awesome-twitter-data?style=flat-square) 
 * [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS). 
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
@@ -203,6 +208,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/typeform-client?style=flat-square "GitHub stars")
 * [Apollo](https://github.com/logzio/apollo) - A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/apollo?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/logzio/apollo?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/logzio/apollo?style=flat-square "GitHub stars")
+* [birch](https://github.com/shaypal5/birch) - Simple hierarchical configuration for Python packages. ![GitHub last commit](https://img.shields.io/github/last-commit/shaypal5/birch?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/shaypal5/birch?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/shaypal5/birch?style=flat-square)
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript ![GitHub last commit](https://img.shields.io/github/last-commit/yaronn/blessed-contrib?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yaronn/blessed-contrib?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yaronn/blessed-contrib?style=flat-square)
 * [Blink-Java](https://github.com/rockem/blink-java) - Simple http server designed for use in tests, written in pure Java (no dependencies). ![GitHub last commit](https://img.shields.io/github/last-commit/rockem/blink-java?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/rockem/blink-java?style=flat-square)
@@ -258,6 +265,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/moshe742/resume-json-python?style=flat-square)
 * [sequelize-admin](https://github.com/giladno/sequelize-admin) - A simple express based admin middleware for sequelizejs ![GitHub last commit](https://img.shields.io/github/last-commit/giladno/sequelize-admin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/giladno/sequelize-admin?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/giladno/sequelize-admin?style=flat-square)
+* [skift](https://github.com/shaypal5/skift) - scikit-learn wrappers for Python fastText. ![GitHub last commit](https://img.shields.io/github/last-commit/shaypal5/skift?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/shaypal5/skift?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/shaypal5/skift?style=flat-square)
 * [SugoiJS Server](https://github.com/sugoiJS/server) - SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code. ![GitHub last commit](https://img.shields.io/github/last-commit/sugoiJS/server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/sugoiJS/server?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/sugoiJS/server?style=flat-square)
 * [Ticktok.io](https://github.com/ticktok-io/ticktok.io) - Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale. ![GitHub last commit](https://img.shields.io/github/last-commit/ticktok-io/ticktok.io?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ticktok-io/ticktok.io?style=flat-square)
@@ -378,6 +387,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Shai Berger](https://github.com/shaib)
 * [Shay Cojocaru](https://github.com/shayc)
+* [Shay Palachy-Affek](https://github.com/shaypal5)
 * [Shlomi Fish](https://www.shlomifish.org/open-source/projects/)
 * [Stav Shamir](https://github.com/stavshamir)
 * [Tomer Brisker](https://github.com/tbrisker)
