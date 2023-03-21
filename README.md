@@ -86,6 +86,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square "GitHub stars")
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/licenseye?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
+* [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
+  ![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
