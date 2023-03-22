@@ -365,6 +365,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gilad Novik](https://github.com/giladno)
+* [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
 * [Ido Cohen](https://github.com/idoco)
 * [Ilan Joselevich](https://github.com/Kranzes)
