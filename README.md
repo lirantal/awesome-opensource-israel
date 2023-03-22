@@ -36,7 +36,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [ruby](#ruby)
 - [rust](#rust)
 - [shell](#shell)
-- [typeScript](#typescript)
+- [typescript](#typescript)
 - [vue](#vue)
 - [unknown language](#unknown-language)
 
