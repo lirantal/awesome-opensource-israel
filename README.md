@@ -164,6 +164,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/appwrite/appwrite?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square)
 
+* [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
+
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
 * [Mathberet](https://github.com/yonatanmgr/mathberet) - Digital Mathematics Notebook. ![GitHub last commit](https://img.shields.io/github/last-commit/yonatanmgr/mathberet?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonatanmgr/mathberet?style=flat-square)
@@ -302,6 +305,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Ariga](https://ariga.io/)
 * [Armo](https://github.com/armosec)
 * [Ballerine](https://github.com/ballerine-io)
+* [Bit](https://bit.dev)
 * [Bridgecrew](https://github.com/bridgecrewio)
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [CloudQuery](https://github.com/cloudquery)
