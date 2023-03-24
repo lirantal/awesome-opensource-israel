@@ -33,6 +33,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [objective-c](#objective-c)
 - [php](#php)
 - [python](#python)
+- [react](#react)
 - [ruby](#ruby)
 - [rust](#rust)
 - [shell](#shell)
@@ -140,6 +141,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/py-weatheril?style=flat-square)
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
+
+### react
+* [emoji-picker-react](https://github.com/ealush/emoji-picker-react) The most popular emoji picker component for React applications. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/emoji-picker-react?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/emoji-picker-react?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/ealush/emoji-picker-react?style=flat-square "GitHub stars")
 
 ### ruby
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
@@ -368,6 +372,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
 * [Erez Birenholz](https://github.com/ErezBiren)
+* [Evyatar Alush](https://github.com/ealush)
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gilad Novik](https://github.com/giladno)
