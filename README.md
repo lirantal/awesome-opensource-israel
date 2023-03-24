@@ -90,6 +90,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/kleinron/lite-fifo?style=flat-square "GitHub stars")
 * [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
   ![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
+* [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples 
+  ![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
