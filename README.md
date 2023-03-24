@@ -86,6 +86,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square "GitHub stars")
 * [licenseye](https://github.com/lirantal/licenseye) - Node.js CLI tool to visualize an aggregate list of your dependencies' licenses ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/licenseye?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/licenseye?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
+* [lite-fifo](https://github.com/kleinron/lite-fifo) - Lightweight and efficient implementations of FIFO/Queue, written in pure javascript ![GitHub last commit](https://img.shields.io/github/last-commit/kleinron/lite-fifo?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/kleinron/lite-fifo?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/kleinron/lite-fifo?style=flat-square "GitHub stars")
 * [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
   ![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
 
@@ -393,6 +395,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Orel Balilti](https://github.com/o-b-one)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Ram Rachum](https://chipmunkdev.com/)
+* [Ron Klein](https://heblog.ronklein.co.il/)
 * [Sawyer X](https://github.com/xsawyerx)
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Shai Berger](https://github.com/shaib)
