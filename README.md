@@ -177,6 +177,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
+
+* [DBZar](https://github.com/nitzano/dbzar) - Agnostic DB Anonymizer ![GitHub last commit](https://img.shields.io/github/last-commit/nitzano/dbzar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/nitzano/dbzar?style=flat-square "GitHub top language")
+
 * [Mathberet](https://github.com/yonatanmgr/mathberet) - Digital Mathematics Notebook. ![GitHub last commit](https://img.shields.io/github/last-commit/yonatanmgr/mathberet?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonatanmgr/mathberet?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yonatanmgr/mathberet)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
