@@ -435,6 +435,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Yon Liud](https://github.com/YonLiud)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Yuval Kogman](https://github.com/nothingmuch)
+* [Raz Luvaton](https://github.com/rluvaton)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
