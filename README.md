@@ -90,9 +90,17 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [lite-fifo](https://github.com/kleinron/lite-fifo) - Lightweight and efficient implementations of FIFO/Queue, written in pure javascript ![GitHub last commit](https://img.shields.io/github/last-commit/kleinron/lite-fifo?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/kleinron/lite-fifo?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/kleinron/lite-fifo?style=flat-square "GitHub stars")
 * [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
-  ![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
-* [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples 
-  ![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
+* [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples
+![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
+* [Redash-in-js](https://github.com/rluvaton/redash-in-js) - Run Query on multiple environments through Redash
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/redash-in-js?style=flat-square "GitHub stars")
+* [remove-special-quotes](https://github.com/rluvaton/replace-special-quotes) - Remove Special quotes from stdin
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/replace-special-quotes?style=flat-square "GitHub stars")
+* [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/connection-monitor?style=flat-square "GitHub stars")
+* [automate-download-paycheck](https://github.com/rluvaton/automate-download-paycheck) - Automate download Paychecks from Hargal and Hilan
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars")
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
@@ -190,6 +198,12 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/snyk/snyk?style=flat-square)
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/vest?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ealush/vest?style=flat-square)
+* [bulk-npm-publish](https://github.com/rluvaton/bulk-npm-publish) - CLI Tool for Publishing Multiple NPM packages from verdaccio storage
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars")
+* [sinon-jest-matchers](https://github.com/rluvaton/sinon-jest-matchers) - Jest (expect) matchers for sinon
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/sinon-jest-matchers?style=flat-square "GitHub stars")
+* [electra-smart-js-client](https://github.com/rluvaton/electra-smart-js-client) - Electra Smart js client
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars")
 
 
 * [WhatsNext (Server)](https://stockdiv.com/whatsnext/#/) -  WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-server) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-server?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-server?style=flat-square)
