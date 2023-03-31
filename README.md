@@ -11,7 +11,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
+ 
+ *Link for a dynamic view of all the israelis open source projects:(https://opensource-il.vercel.app/)
 </div>
 <br/>
 
