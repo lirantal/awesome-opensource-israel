@@ -175,6 +175,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
 
+* [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies ![GitHub last commit](https://img.shields.io/github/last-commit/eshaham/israeli-bank-scrapers?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/eshaham/israeli-bank-scrapers?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/eshaham/israeli-bank-scrapers?style=flat-square)
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
 
