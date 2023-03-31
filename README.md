@@ -187,6 +187,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/yonatanmgr/mathberet)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
+* [Neuledge](https://github.com/neuledge/engine-js) - Universal language to model, share, and interact with databases. ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/neuledge/engine-js?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/neuledge/engine-js?style=flat-square)
 * [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/remult/remult?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat-square)
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/snyk/snyk?style=flat-square)
