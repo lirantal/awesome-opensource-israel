@@ -95,13 +95,13 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples
 ![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
 * [Redash-in-js](https://github.com/rluvaton/redash-in-js) - Run Query on multiple environments through Redash
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/redash-in-js?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/redash-in-js?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/redash-in-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/redash-in-js?style=flat-square)
 * [remove-special-quotes](https://github.com/rluvaton/replace-special-quotes) - Remove Special quotes from stdin
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/replace-special-quotes?style=flat-square "GitHub stars")
-* [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/connection-monitor?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/replace-special-quotes?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/replace-special-quotes?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/replace-special-quotes?style=flat-square)
+- [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/connection-monitor?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/connection-monitor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/connection-monitor?style=flat-square)
 * [automate-download-paycheck](https://github.com/rluvaton/automate-download-paycheck) - Automate download Paychecks from Hargal and Hilan
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/automate-download-paycheck?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/automate-download-paycheck?style=flat-square)
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
@@ -206,11 +206,11 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Vest](https://github.com/ealush/vest) - Declarative validations library inspired by the spirit and style of unit testing. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/vest?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ealush/vest?style=flat-square)
 * [bulk-npm-publish](https://github.com/rluvaton/bulk-npm-publish) - CLI Tool for Publishing Multiple NPM packages from verdaccio storage
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/bulk-npm-publish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/bulk-npm-publish?style=flat-square)
 * [sinon-jest-matchers](https://github.com/rluvaton/sinon-jest-matchers) - Jest (expect) matchers for sinon
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/sinon-jest-matchers?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/sinon-jest-matchers?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/sinon-jest-matchers?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/sinon-jest-matchers?style=flat-square)
 * [electra-smart-js-client](https://github.com/rluvaton/electra-smart-js-client) - Electra Smart js client
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars")
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/electra-smart-js-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/electra-smart-js-client?style=flat-square)
 
 
 * [WhatsNext (Server)](https://stockdiv.com/whatsnext/#/) -  WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-server) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-server?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-server?style=flat-square)
@@ -426,6 +426,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Orel Balilti](https://github.com/o-b-one)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Ram Rachum](https://chipmunkdev.com/)
+* [Raz Luvaton](https://github.com/rluvaton)
 * [Ron Klein](https://heblog.ronklein.co.il/)
 * [Sawyer X](https://github.com/xsawyerx)
 * [Shachar Shemesh](https://www.shemesh.biz/)
@@ -442,7 +443,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Yon Liud](https://github.com/YonLiud)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Yuval Kogman](https://github.com/nothingmuch)
-* [Raz Luvaton](https://github.com/rluvaton)
 
 ## Events
 * [August Penguin](http://ap.hamakor.org.il) - The annual convention of the Israeli Free and Open Source Software community
