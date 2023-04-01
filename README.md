@@ -11,7 +11,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
+ 
+ *Link for a dynamic view of all the israelis open source projects:(https://opensource-il.vercel.app/)
 </div>
 <br/>
 
@@ -115,6 +116,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Arpspoof-Docker?style=flat-square)
+* [AWS Lambda Handler Cookbook](https://github.com/t0mer/Arpspoof-Docker) - Serverless service template project that includes AWS CDK, Lambda best practices a CI/CD pipeline. ![GitHub last commit](https://img.shields.io/github/last-commit/ran-isenberg/aws-lambda-handler-cookbook?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/ran-isenberg/aws-lambda-handler-cookbook?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ran-isenberg/aws-lambda-handler-cookbook?style=flat-square)
 * [C4dynamics](https://github.com/C4dynamics/C4dynamics) - A framework for algorithm engineers who work with physical systems. ![GitHub last commit](https://img.shields.io/github/last-commit/C4dynamics/C4dynamics?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/C4dynamics/C4dynamics?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/C4dynamics/C4dynamics?style=flat-square)
 * [Cachier](https://github.com/python-cachier/cachier) - Persistent, stale-free, local and cross-machine caching for Python functions. ![GitHub last commit](https://img.shields.io/github/last-commit/python-cachier/cachier?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/python-cachier/cachier?style=flat-square)
@@ -183,6 +186,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
 
+* [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies ![GitHub last commit](https://img.shields.io/github/last-commit/eshaham/israeli-bank-scrapers?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/eshaham/israeli-bank-scrapers?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/eshaham/israeli-bank-scrapers?style=flat-square)
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
 
@@ -192,6 +197,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/yonatanmgr/mathberet)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
+* [Neuledge](https://github.com/neuledge/engine-js) - Universal language to model, share, and interact with databases. ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/neuledge/engine-js?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/neuledge/engine-js?style=flat-square)
 * [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/remult/remult?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat-square)
 * [Snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/snyk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/snyk/snyk?style=flat-square)
