@@ -58,6 +58,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/otterize/network-mapper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/otterize/network-mapper?style=flat-square)
+* [surf CLI](https://github.com/Isan-Rivkin/surf) - Free Text Search across your infrastructure, it's like `... | grep` but for your entire infrastructure!
+![GitHub last commit](https://img.shields.io/github/last-commit/Isan-Rivkin/surf?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Isan-Rivkin/surf?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Isan-Rivkin/surf?style=flat-square)
 
 
 ### html
