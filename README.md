@@ -12,7 +12,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
  
- *Link for a dynamic view of all the israelis open source projects:(https://opensource-il.vercel.app/)
+ *Link for a dynamic view of all the israelis open source projects [Israel Open-Source site](https://opensource-il.vercel.app/)*
 </div>
 <br/>
 
@@ -157,6 +157,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 ### react
 * [emoji-picker-react](https://github.com/ealush/emoji-picker-react) The most popular emoji picker component for React applications. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/emoji-picker-react?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/emoji-picker-react?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/ealush/emoji-picker-react?style=flat-square "GitHub stars")
+* [helm-dashboard-v2](https://github.com/komodorio/helm-dashboard/tree/helm-dashboard-v2/dashboard) A full re-write version for helm dashboard by Komodor. ![GitHub last commit](https://img.shields.io/github/last-commit/komodorio/helm-dashboard?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/komodorio/helm-dashboard?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/komodorio/helm-dashboard?style=flat-square "GitHub stars")
 
 ### ruby
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
