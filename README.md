@@ -384,6 +384,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ZOOZ](https://github.com/Zooz)
 
 ## Organizations
+* [DataHack](https://datahack.org.il) The Association for The Advancement of Data Science In Israel.
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
 * [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
@@ -455,7 +456,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [PyConIL](https://pycon.org.il/) - Annual Python conference
 
 ## Meetups / User Groups
+* [DataTalks](https://www.meetup.com/DataHack/) - A meetup series of deep technical ML talks pairing industry with academia speakers, each hosted at a different company.
 * [JavaScript Israel](https://www.meetup.com/javascript-israel/) - A place for the Israeli Javascript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.
+* [KaggleIL](https://www.facebook.com/groups/kaggleil/) - A community of Kaggle practitioners gathering for shared work and knowledge sharing around ongoing Kaggle competitions.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
 * [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
