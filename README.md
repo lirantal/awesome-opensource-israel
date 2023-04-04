@@ -233,6 +233,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ### unknown language
 * [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data) - A list of Twitter datasets and related resources. ![GitHub stars](https://img.shields.io/github/stars/shaypal5/awesome-twitter-data?style=flat-square) 
 * [Black Hole Solitaire Solver](https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/) - an automated solver for the “Black Hole” and “All in a Row” variants of card solitaire.
+* [Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf) - Cheat-Sheet Collection for DevOps, Engineers, IT and more.  ![GitHub stars](https://img.shields.io/github/stars/sk3pp3r/cheat-sheet-pdf?style=social) 
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS). 
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
 * [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire. 
@@ -414,6 +415,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Gilad Novik](https://github.com/giladno)
 * [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
+* [Haim Cohen](https://github.com/sk3pp3r)
 * [Ido Cohen](https://github.com/idoco)
 * [Ilan Joselevich](https://github.com/Kranzes)
 * [Islam Attrash](https://github.com/Attrash-Islam)
