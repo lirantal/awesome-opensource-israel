@@ -116,6 +116,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/utopia-php)
 
 ### python
+* [adb-api](https://github.com/t0mer/adb-api) - ADB-API is a python-based application to help us control android-based streamers like Xiaomi and more.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/adb-api?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/adb-api?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/adb-api?style=flat-square)
 * [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/apprise-api-bridge?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
@@ -128,6 +130,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square)
 * [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/bridgecrewio/checkov?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square "GitHub stars")
+* [cloudflared-mon](https://github.com/t0mer/cloudflared-mon) - Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/cloudflared-mon?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/cloudflared-mon?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/t0mer/cloudflared-mon?style=flat-square)
+
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/cloudify-cosmo/cloudify-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cloudify-cosmo/cloudify-manager?style=flat-square)
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/robusta-dev/debug-toolkit?style=flat-square)
@@ -158,6 +163,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/py-weatheril?style=flat-square)
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
+
 
 ### react
 * [emoji-picker-react](https://github.com/ealush/emoji-picker-react) The most popular emoji picker component for React applications. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/emoji-picker-react?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/emoji-picker-react?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/ealush/emoji-picker-react?style=flat-square "GitHub stars")
