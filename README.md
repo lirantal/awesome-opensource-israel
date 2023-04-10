@@ -86,6 +86,13 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/springwolf/springwolf-core?style=flat-square)
 
 ### javascript
+* [arXiv](https://github.com/ShadovvBeast/arXiv) - ChatGPT Plugin that enables the model to access arXiv.org ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/arXiv?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/arXiv?style=flat-square)
+* [automate-download-paycheck](https://github.com/rluvaton/automate-download-paycheck) - Automate download Paychecks from Hargal and Hilan
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/automate-download-paycheck?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/automate-download-paycheck?style=flat-square)
+* [CoinCapPlugin](https://github.com/ShadovvBeast/CoinCapPlugin) - ChatGPT Plugin that enables the model to access CoinCap to get crypto market info ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/CoinCapPlugin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/CoinCapPlugin?style=flat-square)
+* [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
+![GitHub stars](https://img.shields.io/github/stars/rluvaton/connection-monitor?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/connection-monitor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/connection-monitor?style=flat-square)
+
 * [crawling-jobs](https://github.com/gal-dahan/crawling-jobs) -  Scans jobs in Israel By scraping public websites using a Node.js, every six hours. ![GitHub last commit](https://img.shields.io/github/last-commit/gal-dahan/crawling-jobs?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/gal-dahan/crawling-jobs?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/gal-dahan/crawling-jobs?style=flat-square)
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quick managing and inspecting of Containers and Images ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/dockly?style=flat-square "GitHub top language")
@@ -102,10 +109,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/redash-in-js?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/redash-in-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/redash-in-js?style=flat-square)
 * [remove-special-quotes](https://github.com/rluvaton/replace-special-quotes) - Remove Special quotes from stdin
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/replace-special-quotes?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/replace-special-quotes?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/replace-special-quotes?style=flat-square)
-- [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/connection-monitor?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/connection-monitor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/connection-monitor?style=flat-square)
-* [automate-download-paycheck](https://github.com/rluvaton/automate-download-paycheck) - Automate download Paychecks from Hargal and Hilan
-![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/automate-download-paycheck?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/automate-download-paycheck?style=flat-square)
+* [WikipediaGPTPlugin](https://github.com/ShadovvBeast/WikipediaGPTPlugin) - ChatGPT Plugins that enables the model to access Wikipedia ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/WikipediaGPTPlugin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/WikipediaGPTPlugin?style=flat-square)
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
@@ -191,6 +195,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 
  ### typescript
+* [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - Easily talk to ChatGPT using your voice ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/TalkGPT?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/TalkGPT?style=flat-square)
 * [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
 * [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/urish/angular2-moment?style=flat-square)
