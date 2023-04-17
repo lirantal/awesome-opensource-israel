@@ -447,6 +447,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Nadav Fischer](https://github.com/fujifish)
 * [Nadav Har'El](http://nadav.harel.org.il/)
 * [Nadav Samet](https://github.com/thesamet)
+* [Naor Peled](https://github.com/naorpeled)
 * [Natan Yellin](https://natanyellin.com/open-source/)
 * [Netanel Basal](https://github.com/NetanelBasal)
 * [Nitzan Tomer](https://github.com/nitzantomer)
