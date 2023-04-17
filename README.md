@@ -432,6 +432,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Guy Sheffer](https://github.com/guysoft)
 * [Haim Cohen](https://github.com/sk3pp3r)
 * [Ido Cohen](https://github.com/idoco)
+* [Igal Klebanov](https://github.com/igalklebanov)
 * [Ilan Joselevich](https://github.com/Kranzes)
 * [Islam Attrash](https://github.com/Attrash-Islam)
 * [Itamar Syn-Hershko](https://github.com/synhershko)
