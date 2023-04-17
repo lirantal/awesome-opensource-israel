@@ -119,14 +119,14 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
 * [lite-fifo](https://github.com/kleinron/lite-fifo) - Lightweight and efficient implementations of FIFO/Queue, written in pure javascript ![GitHub last commit](https://img.shields.io/github/last-commit/kleinron/lite-fifo?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/kleinron/lite-fifo?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/kleinron/lite-fifo?style=flat-square "GitHub stars")
-* [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
-![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
 * [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples
 ![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
 * [Redash-in-js](https://github.com/rluvaton/redash-in-js) - Run Query on multiple environments through Redash
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/redash-in-js?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/redash-in-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/redash-in-js?style=flat-square)
 * [remove-special-quotes](https://github.com/rluvaton/replace-special-quotes) - Remove Special quotes from stdin
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/replace-special-quotes?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/replace-special-quotes?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/replace-special-quotes?style=flat-square)
+* [Telenode](https://github.com/NivEz/telenode) - Lightweight Telegram API framework for Node.js ![GitHub last commit](https://img.shields.io/github/last-commit/NivEz/telenode?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/NivEz/telenode?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
 * [WikipediaGPTPlugin](https://github.com/ShadovvBeast/WikipediaGPTPlugin) - ChatGPT Plugins that enables the model to access Wikipedia ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/WikipediaGPTPlugin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/WikipediaGPTPlugin?style=flat-square)
 
 ### objective-c
