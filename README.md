@@ -196,6 +196,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub last commit](https://img.shields.io/github/last-commit/noti56/react-game-input-manager?style=flat-square) 
 ![GitHub top language](https://img.shields.io/github/languages/top/noti56/react-game-input-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/noti56/react-game-input-manager?style=flat-square")
+* [WhizFlow](https://github.com/itamarbareket/whizflow) A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
+![GitHub last commit](https://img.shields.io/github/last-commit/itamarbareket/whizflow?style=flat-square) 
+![GitHub top language](https://img.shields.io/github/languages/top/itamarbareket/whizflow?style=flat-square)
 
 ### ruby
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
