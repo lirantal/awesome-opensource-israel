@@ -96,8 +96,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
  ### java
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/TomerFi/alexa-skills-tester?style=flat-square "GitHub stars")
-* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
 * [async-profiler-actuator-endpoint](https://github.com/taboola/async-profiler-actuator-endpoint) -  A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler. ![GitHub last commit](https://img.shields.io/github/last-commit/taboola/async-profiler-actuator-endpoint?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/taboola/async-profiler-actuator-endpoint?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/taboola/async-profiler-actuator-endpoint?style=flat-square)
 * [Sawmill](https://github.com/logzio/sawmill) - A JSON transformation open source library for enriching, transforming, and filtering JSON documents. ![GitHub last commit](https://img.shields.io/github/last-commit/logzio/sawmill?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/logzio/sawmill?style=flat-square)
@@ -142,6 +140,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ### python
 * [adb-api](https://github.com/t0mer/adb-api) - ADB-API is a python-based application to help us control android-based streamers like Xiaomi and more.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/adb-api?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/adb-api?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/adb-api?style=flat-square)
+* [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
+![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
 * [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/apprise-api-bridge?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
