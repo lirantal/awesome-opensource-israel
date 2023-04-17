@@ -195,24 +195,19 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 
  ### typescript
-* [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - Easily talk to ChatGPT using your voice ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/TalkGPT?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/TalkGPT?style=flat-square)
 * [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
 * [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/urish/angular2-moment?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/urish/angular2-moment?style=flat-square "GitHub stars")
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/appwrite/appwrite?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square)
-
 * [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
-
 * [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies ![GitHub last commit](https://img.shields.io/github/last-commit/eshaham/israeli-bank-scrapers?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/eshaham/israeli-bank-scrapers?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/eshaham/israeli-bank-scrapers?style=flat-square)
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
-
 * [DBZar](https://github.com/nitzano/dbzar) - Agnostic DB Anonymizer ![GitHub last commit](https://img.shields.io/github/last-commit/nitzano/dbzar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/nitzano/dbzar?style=flat-square "GitHub top language")
-
 * [Mathberet](https://github.com/yonatanmgr/mathberet) - Digital Mathematics Notebook. ![GitHub last commit](https://img.shields.io/github/last-commit/yonatanmgr/mathberet?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonatanmgr/mathberet?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yonatanmgr/mathberet)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square)
@@ -231,6 +226,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/bulk-npm-publish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/bulk-npm-publish?style=flat-square)
 * [sinon-jest-matchers](https://github.com/rluvaton/sinon-jest-matchers) - Jest (expect) matchers for sinon
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/sinon-jest-matchers?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/sinon-jest-matchers?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/sinon-jest-matchers?style=flat-square)
+* [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - Easily talk to ChatGPT using your voice ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/TalkGPT?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/TalkGPT?style=flat-square)
 * [electra-smart-js-client](https://github.com/rluvaton/electra-smart-js-client) - Electra Smart js client
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/electra-smart-js-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/electra-smart-js-client?style=flat-square)
 
