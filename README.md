@@ -250,6 +250,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Wiki Location](https://github.com/noam-honig/wikiloc) - Displays wikipedia articles based on your current location (currently in hebrew). ![GitHub last commit](https://img.shields.io/github/last-commit/noam-honig/wikiloc?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/noam-honig/wikiloc?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/noam-honig/wikiloc?style=flat-square)
 
 ### vue
+* [Overlay](https://github.com/os-scar/overlay) - Overlay is a browser extension helping developers evaluate open source packages before picking them. ![GitHub last commit](https://img.shields.io/github/last-commit/os-scar/overlay?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/os-scar/overlay?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/os-scar/overlay?style=flat-square) 
 * [WhatsNext (Client)](https://stockdiv.com/whatsnext/#/) - WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square) 
 
 ### unknown language
