@@ -383,6 +383,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Final](https://github.com/final-israel)
 * [Groundcover](https://github.com/groundcover-com)
 * [ironSource](https://github.com/ironSource)
+* [komodorio](https://github.com/komodorio)
 * [Linnovate](https://github.com/linnovate)
 * [Logz.io](https://github.com/logzio)
 * [Meatlbear](https://github.com/metalbear-co)
