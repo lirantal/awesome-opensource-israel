@@ -475,6 +475,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Shahar Kazaz](https://github.com/shaharkazaz)
 * [Shai Berger](https://github.com/shaib)
+* [Shai Reznik](https://github.com/shairez)
 * [Shay Cojocaru](https://github.com/shayc)
 * [Shay Gover](https://gitlab.com/shaygover)
 * [Shay Palachy-Affek](https://github.com/shaypal5)
