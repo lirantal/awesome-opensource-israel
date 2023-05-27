@@ -72,7 +72,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 
 ### go
-* [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
+* [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your 
+ic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
 * [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
 ![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
@@ -172,6 +173,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/deepstack-trainer?style=flat-square "GitHub stars")
 * [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/dockerbot?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/dockerbot?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/dockerbot?style=flat-square)
+* [llm-client](https://github.com/uripeled2/llm-client-sdk) - an SDK for communicating with generative AI large language models ![GitHub last commit](https://img.shields.io/github/last-commit/uripeled2/llm-client-sdk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/uripeled2/llm-client-sdk?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=flat-square)
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ma-nish?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ma-nish?style=flat-square)
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/permitio/opal?style=flat-square)
@@ -485,6 +488,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [Tomer Brisker](https://github.com/tbrisker)
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Tomer Klein](https://github.com/t0mer)
+* [Uri Peled](https://github.com/uripeled2)
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Yon Liud](https://github.com/YonLiud)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
