@@ -138,7 +138,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/wix/react-native-navigation?style=flat-square)
 
 ### perl
-
 * [CPAN Digger](https://github.com/szabgab/CPAN-Digger/) - Analyzing projects in Perl from CPAN ![GitHub last commit](https://img.shields.io/github/last-commit/szabgab/CPAN-Digger?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/szabgab/CPAN-Digger?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/szabgab/CPAN-Digger)
 
