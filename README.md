@@ -137,6 +137,11 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/wix/react-native-navigation?style=flat-square)
 
+### perl
+
+* [CPAN Digger](https://github.com/szabgab/CPAN-Digger/) - Analyzing projects in Perl from CPAN ![GitHub last commit](https://img.shields.io/github/last-commit/szabgab/CPAN-Digger?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/szabgab/CPAN-Digger?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/szabgab/CPAN-Digger)
+
 ### php
 * [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/utopia-php/framework?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/utopia-php/framework?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/utopia-php)
