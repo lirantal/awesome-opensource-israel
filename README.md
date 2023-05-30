@@ -235,7 +235,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 
 
  ### typescript
-
 * [@ngneat/effects](https://github.com/ngneat/effects) - 🪄 A framework-agnostic RxJS effects implementation ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/effects?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/effects?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/effects?style=flat-square)
 * [@ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/falso?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/falso?style=flat-square)
 * [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
