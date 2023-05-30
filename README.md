@@ -181,6 +181,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
 * [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames. ![GitHub last commit](https://img.shields.io/github/last-commit/pdpipe/pdpipe?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/pdpipe/pdpipe?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square)
+* [PyDigger](https://github.com/szabgab/pydigger.com) - Collecting and analyzing data about Python projects on PyPI ![GitHub last commit](https://img.shields.io/github/last-commit/szabgab/pydigger.com?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/szabgab/pydigger.com?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/szabgab/pydigger.com?style=flat-square)
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cool-RR/PySnooper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cool-RR/PySnooper?style=flat-square)
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources. ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/getredash/redash?style=flat-square)
