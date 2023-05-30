@@ -286,7 +286,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
  
 
 
- ### Old Projects
+### Old Projects
  
 <details>
       <summary> More than half a year since the last commit</summary>
