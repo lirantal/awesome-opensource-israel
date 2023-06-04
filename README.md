@@ -208,6 +208,10 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ### react
 * [emoji-picker-react](https://github.com/ealush/emoji-picker-react) The most popular emoji picker component for React applications. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/emoji-picker-react?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/emoji-picker-react?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/ealush/emoji-picker-react?style=flat-square "GitHub stars")
 * [helm-dashboard-v2](https://github.com/komodorio/helm-dashboard/tree/helm-dashboard-v2/dashboard) A full re-write version for helm dashboard by Komodor. ![GitHub last commit](https://img.shields.io/github/last-commit/komodorio/helm-dashboard?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/komodorio/helm-dashboard?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/komodorio/helm-dashboard?style=flat-square "GitHub stars")
+* [Ostara](https://github.com/krud-dev/ostara) An application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/ostara?style=flat-square) 
+![GitHub top language](https://img.shields.io/github/languages/top/krud-dev/ostara?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/krud-dev/ostara?style=flat-square")
 * [react-input-manager](https://github.com/noti56/react-game-input-manager) A React Input Manager made for Games, supports gamepad keyboard mouse mobile gamepad (razer kishi) and mobile ui joistics
 ![GitHub last commit](https://img.shields.io/github/last-commit/noti56/react-game-input-manager?style=flat-square) 
 ![GitHub top language](https://img.shields.io/github/languages/top/noti56/react-game-input-manager?style=flat-square)
