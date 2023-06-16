@@ -33,6 +33,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 - [java](#java)
 - [javascript](#javascript)
 - [objective-c](#objective-c)
+- [perl](#perl)
 - [php](#php)
 - [python](#python)
 - [react](#react)
