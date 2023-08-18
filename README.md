@@ -17,7 +17,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 <br/>
 
 # Table of Contents
-- [Projects](#projects)
+- [Projects](#projects-by-main-language)
 - [Companies](#companies)
 - [Organizations](#organizations)
 - [Individuals](#individuals)
