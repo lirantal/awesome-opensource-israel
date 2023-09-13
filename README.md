@@ -417,7 +417,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Peer5](https://github.com/Peer5)
 * [Permit.io](https://github.com/permitio)
 * [qwikifiers](https://github.com/qwikifiers)
-* [Red Hat](https://www.redhat.com/en)
+* [Red Hat](https://github.com/RedHatOfficial)
 * [Robusta](https://github.com/robusta-dev)
 * [Scylla](https://github.com/scylladb)
 * [Snyk](https://github.com/snyk)
