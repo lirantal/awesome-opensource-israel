@@ -84,7 +84,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub last commit](https://img.shields.io/github/last-commit/Isan-Rivkin/surf?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/Isan-Rivkin/surf?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Isan-Rivkin/surf?style=flat-square)
-* [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
+* [kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 ![GitHub last commit](https://img.shields.io/github/last-commit/yonahd/kor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonahd/kor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yonahd/kor?style=flat-square)
 
