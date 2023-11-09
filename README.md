@@ -232,7 +232,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
-
+* [CoCmd](https://cocmd.org) - super fast dev projects onboarding and playbooks ![Github stars](https://img.shields.io/github/stars/cocmd/cocmd?style=flat-square "Github stars") ![](https://img.shields.io/github/v/release/cocmd/cocmd)
 ### shell
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
