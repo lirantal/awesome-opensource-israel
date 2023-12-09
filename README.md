@@ -26,6 +26,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Projects by main language
 
 - [angular](#angular)
+- [assembly](#assembly)
 - [c](#c)
 - [css](#css)
 - [go](#go)
@@ -62,6 +63,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [@ngneat/transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/transloco?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/transloco?style=flat-square)
 * [@ngneat/transloco-keys-manager](https://github.com/ngneat/transloco-keys-manager) - 🦄 The Key to a Better Translation Experience ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco-keys-manager?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/transloco-keys-manager?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/transloco-keys-manager?style=flat-square)
 * [@ngneat/until-destroy](https://github.com/ngneat/until-destroy) - 🦊 RxJS operator that unsubscribe from observables on destroy ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/until-destroy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/until-destroy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/until-destroy?style=flat-square)
+
+### assembly
+* [snake](https://github.com/donno2048/snake) - the smallest snake game as of the time of writing this. ![GitHub last commit](https://img.shields.io/github/last-commit/donno2048/snake?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/donno2048/snake?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/donno2048/snake?style=flat-square)
 
 ### c
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
