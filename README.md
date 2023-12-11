@@ -229,8 +229,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub last commit](https://img.shields.io/github/last-commit/itamarbareket/whizflow?style=flat-square) 
 ![GitHub top language](https://img.shields.io/github/languages/top/itamarbareket/whizflow?style=flat-square)
 * [DataBus](https://github.com/hasadna/open-bus-map-search) An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).
-![GitHub last commit]([https://img.shields.io/github/last-commit/itamarbareket/whizflow?style=flat-square](https://img.shields.io/github/last-commit/hasadna/open-bus-map-search?style=flat-square)) 
-![GitHub top language]([https://img.shields.io/github/languages/top/itamarbareket/whizflow?style=flat-square](https://img.shields.io/github/languages/top/hasadna/open-bus-map-search?style=flat-square))
+![GitHub last commit](https://img.shields.io/github/last-commit/hasadna/open-bus-map-search?style=flat-square) 
+![GitHub top language](https://img.shields.io/github/languages/top/hasadna/open-bus-map-search?style=flat-square)
 
 ### ruby
 * [Foreman](https://theforeman.org) - A complete lifecycle management tool for physical, virtual and cloud servers. ![GitHub last commit](https://img.shields.io/github/last-commit/theforeman/foreman?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/theforeman/foreman?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/theforeman/foreman?style=flat-square "GitHub stars")
