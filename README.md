@@ -524,6 +524,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Tomer Klein](https://github.com/t0mer)
 * [Uri Peled](https://github.com/uripeled2)
+* [Uri Shaked](https://github.com/urish)
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Yon Liud](https://github.com/YonLiud)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
