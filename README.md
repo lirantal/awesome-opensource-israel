@@ -17,33 +17,38 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 <br/>
 
 # Table of Contents
-- [Projects](#projects-by-main-language)
+- [Projects by main language](#projects-by-main-language)
+  - [angular](#angular)
+  - [assembly](#assembly)
+  - [c](#c)
+  - [css](#css)
+  - [go](#go)
+  - [html](#html)
+  - [java](#java)
+  - [javascript](#javascript)
+  - [objective-c](#objective-c)
+  - [perl](#perl)
+  - [php](#php)
+  - [python](#python)
+  - [react](#react)
+  - [ruby](#ruby)
+  - [rust](#rust)
+  - [shell](#shell)
+  - [typescript](#typescript)
+  - [vue](#vue)
+  - [unknown language](#unknown-language)
+  - [Old Projects](#old-projects)
 - [Companies](#companies)
 - [Organizations](#organizations)
 - [Individuals](#individuals)
 - [Events](#events)
+- [Meetups / User Groups](#meetups--user-groups)
+- [Israeli Tech AwesomeLists](#israeli-tech-awesomelists)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Projects by main language
-
-- [angular](#angular)
-- [assembly](#assembly)
-- [c](#c)
-- [css](#css)
-- [go](#go)
-- [html](#html)
-- [java](#java)
-- [javascript](#javascript)
-- [objective-c](#objective-c)
-- [perl](#perl)
-- [php](#php)
-- [python](#python)
-- [react](#react)
-- [ruby](#ruby)
-- [rust](#rust)
-- [shell](#shell)
-- [typescript](#typescript)
-- [vue](#vue)
-- [unknown language](#unknown-language)
 
 ### angular
 
@@ -542,6 +547,14 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
 * [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
+
+## Israeli Tech AwesomeLists
+* [angular-companies-israel](https://github.com/eranshmil/angular-companies-israel)
+* [awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
+* [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
+* [rust-tlv/companies](https://github.com/rust-tlv/companies)
+* [vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
+
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
