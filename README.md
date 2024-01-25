@@ -514,6 +514,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Orel Balilti](https://github.com/o-b-one)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Ram Rachum](https://chipmunkdev.com/)
+* [Ran Bar-Zik](https://github.com/barzik)
 * [Ran Isenberg](https://ranthebuilder.cloud/)
 * [Raz Luvaton](https://github.com/rluvaton)
 * [Ron Klein](https://heblog.ronklein.co.il/)
