@@ -537,6 +537,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Uri Shaked](https://github.com/urish)
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Yon Liud](https://github.com/YonLiud)
+* [Yuval Adam](https://github.com/yuvadm)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Yuval Kogman](https://github.com/nothingmuch)
 
