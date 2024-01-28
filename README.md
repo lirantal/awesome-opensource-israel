@@ -40,6 +40,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [Old Projects](#old-projects)
 - [Companies](#companies)
 - [Organizations](#organizations)
+- [Podcasts](#podcasts)
 - [Individuals](#individuals)
 - [Events](#events)
 - [Meetups / User Groups](#meetups--user-groups)
@@ -471,6 +472,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
 * [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby community with a monthly meetup
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
+
+## Podcasts
+* [Talking Open](https://talkingopen.podbean.com/)
 
 ## Individuals
 * [Almog Baku](https://github.com/AlmogBaku)
