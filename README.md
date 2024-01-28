@@ -475,6 +475,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 
 ## Podcasts
 * [Talking Open](https://talkingopen.podbean.com/)
+* [Open Code](https://myishay.podbean.com/)
 
 ## Individuals
 * [Almog Baku](https://github.com/AlmogBaku)
