@@ -493,6 +493,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gal Schlezinger](https://github.com/Schniz)
+* [Gal Weizman](https://github.com/weizman)
 * [Gilad Novik](https://github.com/giladno)
 * [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
