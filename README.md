@@ -17,32 +17,39 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 <br/>
 
 # Table of Contents
-- [Projects](#projects-by-main-language)
+- [Projects by main language](#projects-by-main-language)
+  - [angular](#angular)
+  - [assembly](#assembly)
+  - [c](#c)
+  - [css](#css)
+  - [go](#go)
+  - [html](#html)
+  - [java](#java)
+  - [javascript](#javascript)
+  - [objective-c](#objective-c)
+  - [perl](#perl)
+  - [php](#php)
+  - [python](#python)
+  - [react](#react)
+  - [ruby](#ruby)
+  - [rust](#rust)
+  - [shell](#shell)
+  - [typescript](#typescript)
+  - [vue](#vue)
+  - [unknown language](#unknown-language)
+  - [Old Projects](#old-projects)
 - [Companies](#companies)
 - [Organizations](#organizations)
+- [Podcasts](#podcasts)
 - [Individuals](#individuals)
 - [Events](#events)
+- [Meetups / User Groups](#meetups--user-groups)
+- [Israeli Tech AwesomeLists](#israeli-tech-awesomelists)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Projects by main language
-
-- [angular](#angular)
-- [c](#c)
-- [css](#css)
-- [go](#go)
-- [html](#html)
-- [java](#java)
-- [javascript](#javascript)
-- [objective-c](#objective-c)
-- [perl](#perl)
-- [php](#php)
-- [python](#python)
-- [react](#react)
-- [ruby](#ruby)
-- [rust](#rust)
-- [shell](#shell)
-- [typescript](#typescript)
-- [vue](#vue)
-- [unknown language](#unknown-language)
 
 ### angular
 
@@ -62,6 +69,10 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [@ngneat/transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/transloco?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/transloco?style=flat-square)
 * [@ngneat/transloco-keys-manager](https://github.com/ngneat/transloco-keys-manager) - 🦄 The Key to a Better Translation Experience ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco-keys-manager?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/transloco-keys-manager?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/transloco-keys-manager?style=flat-square)
 * [@ngneat/until-destroy](https://github.com/ngneat/until-destroy) - 🦊 RxJS operator that unsubscribe from observables on destroy ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/until-destroy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/until-destroy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/until-destroy?style=flat-square)
+
+### assembly
+* [snake](https://github.com/donno2048/snake) - the smallest snake game as of the time of writing this. ![GitHub last commit](https://img.shields.io/github/last-commit/donno2048/snake?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/donno2048/snake?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/donno2048/snake?style=flat-square)
 
 ### c
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
@@ -84,11 +95,16 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub last commit](https://img.shields.io/github/last-commit/Isan-Rivkin/surf?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/Isan-Rivkin/surf?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Isan-Rivkin/surf?style=flat-square)
+* [kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
+![GitHub last commit](https://img.shields.io/github/last-commit/yonahd/kor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonahd/kor?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/yonahd/kor?style=flat-square)
 
 
 ### html
 * [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/broadlinkmanager-docker?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/broadlinkmanager-docker?style=flat-square "GitHub stars")
+* [Elementary](https://github.com/elementary-data/elementary) - Open-source data observability for analytics engineers ![GitHub last commit](https://img.shields.io/github/last-commit/elementary-data/elementary?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/elementary-data/elementary?style=flat-square "GitHub top language")
+![GitHub stars](https://img.shields.io/github/stars/elementary-data/elementary?style=flat-square "GitHub stars")
 * [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/gotenberg-ui?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
@@ -111,6 +127,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [auto-me-bot](https://github.com/TomerFi/auto-me-bot) - GitHub app that takes the repository management load off your shoulders ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/auto-me-bot?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/auto-me-bot?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TomerFi/auto-me-bot?style=flat-square "GitHub stars")
 * [automate-download-paycheck](https://github.com/rluvaton/automate-download-paycheck) - Automate download Paychecks from Hargal and Hilan
 ![GitHub stars](https://img.shields.io/github/stars/rluvaton/automate-download-paycheck?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/automate-download-paycheck?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/automate-download-paycheck?style=flat-square)
+* [branch-name-lint](https://github.com/barzik/branch-name-lint) - Validating and linting the git branch name
+![GitHub stars](https://img.shields.io/github/stars/barzik/branch-name-lint?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/barzik/branch-name-lint?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/barzik/branch-name-lint?style=flat-square)
+* [cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser ![GitHub last commit](https://img.shields.io/github/last-commit/cboard-org/cboard?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cboard-org/cboard?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cboard-org/cboard?style=flat-square "GitHub stars")
 * [CoinCapPlugin](https://github.com/ShadovvBeast/CoinCapPlugin) - ChatGPT Plugin that enables the model to access CoinCap to get crypto market info ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/CoinCapPlugin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/CoinCapPlugin?style=flat-square)
 * [connection-monitor](https://github.com/rluvaton/connection-monitor) - Monitor multiple IP addresses in your terminal
 * [DynamoDataTransform](https://github.com/jitsecurity/dynamo-data-transform) - Dynamo Data Transform is an easy to use data transformation tool for DynamoDB ![GitHub Stars](https://img.shields.io/github/stars/jitsecurity/dynamo-data-transform) ![GitHub last commit](https://img.shields.io/github/last-commit/jitsecurity/dynamo-data-transform?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/jitsecurity/dynamo-data-transform?style=flat-square)
@@ -178,6 +197,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/deepstack-trainer?style=flat-square "GitHub stars")
 * [Dockerbot](https://github.com/t0mer/dockerbot) - DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/dockerbot?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/dockerbot?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/dockerbot?style=flat-square)
+* [keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform ![GitHub last commit](https://img.shields.io/github/last-commit/keephq/keep?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/keephq/keep?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/keephq/keep?style=flat-square)
 * [llm-client](https://github.com/uripeled2/llm-client-sdk) - an SDK for communicating with generative AI large language models ![GitHub last commit](https://img.shields.io/github/last-commit/uripeled2/llm-client-sdk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/uripeled2/llm-client-sdk?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=flat-square)
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ma-nish?style=flat-square)
@@ -188,6 +209,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square)
 * [PyDigger](https://github.com/szabgab/pydigger.com) - Collecting and analyzing data about Python projects on PyPI ![GitHub last commit](https://img.shields.io/github/last-commit/szabgab/pydigger.com?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/szabgab/pydigger.com?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/szabgab/pydigger.com?style=flat-square)
+* [PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS ![GitHub last commit](https://img.shields.io/github/last-commit/pythonnest/pynest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/pythonnest/pynest?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/pythonnest/pynest?style=flat-square)
 * [PySnooper](https://github.com/cool-RR/PySnooper) - a Python debugging aid. "Never use print for debugging again." ![GitHub last commit](https://img.shields.io/github/last-commit/cool-RR/PySnooper?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/cool-RR/PySnooper?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cool-RR/PySnooper?style=flat-square)
 * [Redash](https://github.com/getredash/redash) - Data visualization tool for building dashboards that connect to multiple data sources. ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/getredash/redash?style=flat-square)
@@ -207,7 +230,11 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 
 
 ### react
+* [DataBus](https://github.com/hasadna/open-bus-map-search) An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).
+![GitHub last commit](https://img.shields.io/github/last-commit/hasadna/open-bus-map-search?style=flat-square) 
+![GitHub top language](https://img.shields.io/github/languages/top/hasadna/open-bus-map-search?style=flat-square)
 * [emoji-picker-react](https://github.com/ealush/emoji-picker-react) The most popular emoji picker component for React applications. ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/emoji-picker-react?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ealush/emoji-picker-react?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/ealush/emoji-picker-react?style=flat-square "GitHub stars")
+* [Geshem](https://github.com/yuvadm/geshem.space) An interactive rain radar clone running on Mapbox GL. ![GitHub last commit](https://img.shields.io/github/last-commit/yuvadm/geshem.space?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yuvadm/geshem.space?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/yuvadm/geshem.space?style=flat-square "GitHub stars")
 * [helm-dashboard-v2](https://github.com/komodorio/helm-dashboard/tree/helm-dashboard-v2/dashboard) A full re-write version for helm dashboard by Komodor. ![GitHub last commit](https://img.shields.io/github/last-commit/komodorio/helm-dashboard?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/komodorio/helm-dashboard?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/komodorio/helm-dashboard?style=flat-square "GitHub stars")
 * [Ostara](https://github.com/krud-dev/ostara) An application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 ![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/ostara?style=flat-square) 
@@ -232,7 +259,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
-
+* [CoCmd](https://cocmd.org) - super fast dev projects onboarding and playbooks ![Github stars](https://img.shields.io/github/stars/cocmd/cocmd?style=flat-square "Github stars") ![](https://img.shields.io/github/v/release/cocmd/cocmd)
 ### shell
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
@@ -246,9 +273,12 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Amplication](https://github.com/amplication/amplication) - Build quality Node.js applications without spending time on repetitive coding tasks. ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/amplication/amplication?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=flat-square "GitHub stars")
 * [angular2-moment](https://github.com/urish/angular2-moment) - moment.js pipes for Angular ![GitHub last commit](https://img.shields.io/github/last-commit/urish/angular2-moment?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/urish/angular2-moment?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/urish/angular2-moment?style=flat-square "GitHub stars")
 * [Appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile apps 👩‍💻👨‍💻. ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/appwrite/appwrite?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square)
+* [Automock](https://github.com/automock/automock) - Easier Unit Testing for TypeScript Dependency Injection Frameworks ![GitHub last commit](https://img.shields.io/github/last-commit/automock/automock?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/automock/automock?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/automock/automock?style=flat-square)
+* [Better Rail](https://github.com/better-rail/app) - An alternative mobile client for Israel Railways ![GitHub last commit](https://img.shields.io/github/last-commit/better-rail/app?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/better-rail/app?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/better-rail/app?style=flat-square)
 * [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
 * [bulk-npm-publish](https://github.com/rluvaton/bulk-npm-publish) - CLI Tool for Publishing Multiple NPM packages from verdaccio storage ![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/bulk-npm-publish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/bulk-npm-publish?style=flat-square)
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
+* [Configu](https://github.com/configu/configu) - A simple, modern, and secure standard for managing and collaborating software configurations ![GitHub last commit](https://img.shields.io/github/last-commit/configu/configu?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/configu/configu?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/configu/configu?style=flat-square)
 * [DBZar](https://github.com/nitzano/dbzar) - Agnostic DB Anonymizer ![GitHub last commit](https://img.shields.io/github/last-commit/nitzano/dbzar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/nitzano/dbzar?style=flat-square "GitHub top language")
 * [electra-smart-js-client](https://github.com/rluvaton/electra-smart-js-client) - Electra Smart js client ![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/electra-smart-js-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/electra-smart-js-client?style=flat-square)
 * [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies ![GitHub last commit](https://img.shields.io/github/last-commit/eshaham/israeli-bank-scrapers?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/eshaham/israeli-bank-scrapers?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/eshaham/israeli-bank-scrapers?style=flat-square)
@@ -256,6 +286,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
 * [Neuledge](https://github.com/neuledge/engine-js) - Universal language to model, share, and interact with databases. ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/neuledge/engine-js?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/neuledge/engine-js?style=flat-square)
 * [Nolybab-js](https://github.com/fima-taf/nolybab-js) - A CLI based tool for converting i18n to csv and csv to i18n files. ![GitHub last commit](https://img.shields.io/github/last-commit/fima-taf/nolybab-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fima-taf/nolybab-js?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fima-taf/nolybab-js?style=flat-square)
+* [Novu](https://github.com/novuhq/novu) - Notification infrastructure with fully functional embedded notification center ![GitHub last commit](https://img.shields.io/github/last-commit/novuhq/novu?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/novuhq/novu?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=flat-square)
 * [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀 ![GitHub last commit](https://img.shields.io/github/last-commit/yoavbls/pretty-ts-errors?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yoavbls/pretty-ts-errors?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors?style=flat-square)
 * [Reduced.to](https://github.com/origranot/reduced.to) - Reduced.to is the FREE, Modern, and Open-Source URL Shortener. ![GitHub last commit](https://img.shields.io/github/last-commit/origranot/reduced.to?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/origranot/reduced.to?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/origranot/reduced.to?style=flat-square)
 * [Remult](https://github.com/remult/remult) -  A CRUD framework for full-stack TypeScript. ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/remult/remult?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat-square)
@@ -394,6 +425,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Cloudify](https://github.com/cloudify-cosmo/)
 * [CloudQuery](https://github.com/cloudquery)
 * [Codefresh](https://github.com/codefresh-io)
+* [Configu](https://github.com/configu)
 * [Daily.Dev](https://github.com/dailydotdev)
 * [Datree](https://github.com/datreeio)
 * [DeepChecks](https://github.com/deepchecks)
@@ -402,6 +434,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Final](https://github.com/final-israel)
 * [Groundcover](https://github.com/groundcover-com)
 * [ironSource](https://github.com/ironSource)
+* [keep](https://github.com/keephq)
 * [komodorio](https://github.com/komodorio)
 * [Linnovate](https://github.com/linnovate)
 * [Logz.io](https://github.com/logzio)
@@ -440,6 +473,10 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Ruby Underground Israel](https://www.meetup.com/IsraelRubyUnderground/) The Israeli Ruby community with a monthly meetup
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 
+## Podcasts
+* [Talking Open](https://talkingopen.podbean.com/)
+* [Open Code](https://myishay.podbean.com/)
+
 ## Individuals
 * [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
@@ -456,6 +493,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
 * [Gal Schlezinger](https://github.com/Schniz)
+* [Gal Weizman](https://github.com/weizman)
 * [Gilad Novik](https://github.com/giladno)
 * [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
@@ -485,6 +523,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Orel Balilti](https://github.com/o-b-one)
 * [Ori Hoch](https://github.com/OriHoch)
 * [Ram Rachum](https://chipmunkdev.com/)
+* [Ran Bar-Zik](https://github.com/barzik)
 * [Ran Isenberg](https://ranthebuilder.cloud/)
 * [Raz Luvaton](https://github.com/rluvaton)
 * [Ron Klein](https://heblog.ronklein.co.il/)
@@ -502,8 +541,10 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Tomer Figenblat](https://github.com/TomerFi)
 * [Tomer Klein](https://github.com/t0mer)
 * [Uri Peled](https://github.com/uripeled2)
+* [Uri Shaked](https://github.com/urish)
 * [Yaacov Zamir](https://github.com/yaacov)
 * [Yon Liud](https://github.com/YonLiud)
+* [Yuval Adam](https://github.com/yuvadm)
 * [Yuval Hazaz](https://github.com/yuval-hazaz)
 * [Yuval Kogman](https://github.com/nothingmuch)
 
@@ -519,6 +560,14 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
 * [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
+
+## Israeli Tech AwesomeLists
+* [angular-companies-israel](https://github.com/eranshmil/angular-companies-israel)
+* [awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
+* [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
+* [rust-tlv/companies](https://github.com/rust-tlv/companies)
+* [vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
+
 
 ## Contributing
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
