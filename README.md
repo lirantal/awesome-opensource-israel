@@ -475,8 +475,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [The Public Knowledge Workshop](https://github.com/hasadna) Apply technology to enhance democracy and to empower citizens in Israel. Open for volunteers, see [here](http://www.hasadna.org.il/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/) for details.
 
 ## Podcasts
-* [Talking Open](https://talkingopen.podbean.com/)
 * [Open Code](https://myishay.podbean.com/)
+* [Talking Open](https://talkingopen.podbean.com/)
+
 
 ## Individuals
 * [Almog Baku](https://github.com/AlmogBaku)
