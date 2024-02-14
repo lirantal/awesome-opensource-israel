@@ -468,6 +468,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ## Organizations
 * [DataHack](https://datahack.org.il) The Association for The Advancement of Data Science In Israel.
 * [Hamakor](https://www.hamakor.org.il) The Israeli Free and Open Source Software Non-Profit Organization
+* [Hasadna](https://www.hasadna.org.il/) Hasadna for public knowledge workshop builds open-source websites and apps from public institutions data.
 * [JavaScript Israel](http://www.jsisrael.com/) Israeli JavaScript group that holds monthly free meetups and open source coding sessions. Non Profit.
 * [Node.js-IL](http://www.nodejsil.com/) The Israeli Node.js community - holds monthly meetups and shares common knowledge via WhatsApp / Facebook / etc ...
 * [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel) The Israeli Chapter of OWASP (the Open Web Application Security Project) which provides a range of application resources which are free and open-source.
