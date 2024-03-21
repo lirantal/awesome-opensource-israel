@@ -162,6 +162,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/szabgab/CPAN-Digger)
 
 ### php
+* [Elementor](https://github.com/elementor/elementor) - Elementor is the most advanced front-end drag-and-drop website builder. Create high-end, pixel-perfect websites at record speeds. Build any theme, any page, and any design with no code. ![GitHub last commit](https://img.shields.io/github/last-commit/elementor/elementor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/elementor/elementor?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/elementor/elementor)
 * [Utopia PHP](https://github.com/utopia-php) - Lite & fast micro PHP framework that is easy to learn. ![GitHub last commit](https://img.shields.io/github/last-commit/utopia-php/framework?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/utopia-php/framework?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/utopia-php)
 
@@ -435,6 +437,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [DeepChecks](https://github.com/deepchecks)
 * [DragonFly](https://github.com/dragonflydb/dragonfly)
 * [Elementary](https://github.com/elementary-data)
+* [Elementor](https://github.com/elementor)
 * [Final](https://github.com/final-israel)
 * [Groundcover](https://github.com/groundcover-com)
 * [ironSource](https://github.com/ironSource)
