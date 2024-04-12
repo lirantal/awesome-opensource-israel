@@ -577,7 +577,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
 * [rust-tlv/companies](https://github.com/rust-tlv/companies)
 * [vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
-* [awesome-israeli-jewish-home-assistant] (https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant?tab=readme-ov-file#Of-Jewish-Interest)
 
 
 ## Contributing
