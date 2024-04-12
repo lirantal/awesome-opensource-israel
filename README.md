@@ -572,6 +572,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 
 ## Israeli Tech AwesomeLists
 * [angular-companies-israel](https://github.com/eranshmil/angular-companies-israel)
+* [awesome-israeli-jewish-home-assistant](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant)
 * [awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
 * [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
 * [rust-tlv/companies](https://github.com/rust-tlv/companies)
