@@ -22,6 +22,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [assembly](#assembly)
   - [c](#c)
   - [css](#css)
+  - [erlnag](#erlang)
   - [go](#go)
   - [html](#html)
   - [java](#java)
@@ -82,6 +83,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square)
 
+### erlang
+* [Nerlnet](https://github.com/leondavi/NErlNet) - A framework for research and deployment of distributed machine learning clusters on IoT devices. ![GitHub last commit](https://img.shields.io/github/last-commit/leondavi/NErlNet?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/leondavi/NErlNet?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/leondavi/NErlNet?style=flat-square)
 
 ### go
 * [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your 
