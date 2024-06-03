@@ -22,7 +22,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [assembly](#assembly)
   - [c](#c)
   - [css](#css)
-  - [erlnag](#erlang)
+  - [erlang](#erlang)
   - [go](#go)
   - [html](#html)
   - [java](#java)
