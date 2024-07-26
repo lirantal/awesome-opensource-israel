@@ -514,6 +514,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
 * [Haim Cohen](https://github.com/sk3pp3r)
+* [Haim Kastner](https://github.com/haimkastner)
 * [Ido Cohen](https://github.com/idoco)
 * [Igal Klebanov](https://github.com/igalklebanov)
 * [Ilan Joselevich](https://github.com/Kranzes)
