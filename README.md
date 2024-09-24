@@ -269,13 +269,15 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
 * [CoCmd](https://cocmd.org) - super fast dev projects onboarding and playbooks ![Github stars](https://img.shields.io/github/stars/cocmd/cocmd?style=flat-square "Github stars") ![](https://img.shields.io/github/v/release/cocmd/cocmd)
+* [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. ![GitHub last commit](https://img.shields.io/github/last-commit/metalbear-co/mirrord?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/metalbear-co/mirrord?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square)
 ### shell
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
-* [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. ![GitHub last commit](https://img.shields.io/github/last-commit/metalbear-co/mirrord?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/metalbear-co/mirrord?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square)
+
+
 
 
  ### typescript
