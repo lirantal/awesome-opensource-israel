@@ -91,6 +91,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your 
 ic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
+* [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL. ![GitHub last commit](https://img.shields.io/github/last-commit/github/gh-ost?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/github/gh-ost?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/github/gh-ost?style=flat-square)
 * [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
 ![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/otterize/network-mapper?style=flat-square)
@@ -102,6 +103,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 ![GitHub last commit](https://img.shields.io/github/last-commit/yonahd/kor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonahd/kor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yonahd/kor?style=flat-square)
+* [vitess](https://vitess.io/) - a database clustering system for horizontal scaling of MySQL. 🇮🇱 in core team. ![GitHub last commit](https://img.shields.io/github/last-commit/vitessio/vitess?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/vitessio/vitess?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vitessio/vitess?style=flat-square)
 
 
 ### html
@@ -557,6 +559,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Shay Gover](https://gitlab.com/shaygover)
 * [Shay Palachy-Affek](https://github.com/shaypal5)
 * [Shlomi Fish](https://www.shlomifish.org/open-source/projects/)
+* [Shlomi Noach](https://github.com/shlomi-noach)
 * [Stav Shamir](https://github.com/stavshamir)
 * [Tomer Brisker](https://github.com/tbrisker)
 * [Tomer Figenblat](https://github.com/TomerFi)
