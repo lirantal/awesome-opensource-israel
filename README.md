@@ -53,7 +53,6 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Projects by main language
 
 ### angular
-
 * [@ngneat/bind-query-params](https://github.com/ngneat/bind-query-params) - Sync URL Query Params with Angular Form Controls ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/bind-query-params?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/bind-query-params?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/bind-query-params?style=flat-square)
 * [@ngneat/cashew](https://github.com/ngneat/cashew) - 🐿 A flexible and straightforward library that caches HTTP requests in Angular ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/cashew?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/cashew?style=flat-square)
 * [@ngneat/cmdk](https://github.com/ngneat/cmdk) - Fast, composable, unstyled command menu for Angular. Directly inspired from pacocoursey/cmdk ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cmdk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/cmdk?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/cmdk?style=flat-square)
@@ -105,7 +104,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/yonahd/kor?style=flat-square)
 * [vitess](https://vitess.io/) - a database clustering system for horizontal scaling of MySQL. 🇮🇱 in core team. ![GitHub last commit](https://img.shields.io/github/last-commit/vitessio/vitess?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/vitessio/vitess?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vitessio/vitess?style=flat-square)
 
-
 ### html
 * [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/broadlinkmanager-docker?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/broadlinkmanager-docker?style=flat-square "GitHub stars")
@@ -115,7 +113,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
-
 
 ### java
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
@@ -194,7 +191,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square "GitHub stars")
 * [cloudflared-mon](https://github.com/t0mer/cloudflared-mon) - Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/cloudflared-mon?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/cloudflared-mon?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/cloudflared-mon?style=flat-square)
-
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/cloudify-cosmo/cloudify-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cloudify-cosmo/cloudify-manager?style=flat-square)
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/robusta-dev/debug-toolkit?style=flat-square)
@@ -239,6 +235,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 
+### qwik
+* [qwik](https://qwik.dev) - A web framework that promises instant-loading web apps, without effort. Built with TypeScript and Rust. 🇮🇱 co-lead. ![GitHub last commit](https://img.shields.io/github/last-commit/QwikDev/qwik?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/QwikDev/qwik?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square "GitHub stars")
+* [qwik-ui](https://qwikui.com) - Headless & styled copy-paste components automatically optimized for you. ![GitHub last commit](https://img.shields.io/github/last-commit/qwikifiers/qwik-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/qwikifiers/qwik-ui?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/qwikifiers/qwik-ui?style=flat-square "GitHub stars")
 
 ### react
 * [DataBus](https://github.com/hasadna/open-bus-map-search) An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).
@@ -273,14 +272,12 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [CoCmd](https://cocmd.org) - super fast dev projects onboarding and playbooks ![Github stars](https://img.shields.io/github/stars/cocmd/cocmd?style=flat-square "Github stars") ![](https://img.shields.io/github/v/release/cocmd/cocmd)
 * [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. ![GitHub last commit](https://img.shields.io/github/last-commit/metalbear-co/mirrord?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/metalbear-co/mirrord?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square)
+
 ### shell
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
-
-
-
 
  ### typescript
 * [@ngneat/effects](https://github.com/ngneat/effects) - 🪄 A framework-agnostic RxJS effects implementation ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/effects?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/effects?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/effects?style=flat-square)
