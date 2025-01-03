@@ -31,6 +31,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [perl](#perl)
   - [php](#php)
   - [python](#python)
+  - [qwik](#qwik)
   - [react](#react)
   - [ruby](#ruby)
   - [rust](#rust)
@@ -90,6 +91,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your 
 ic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
+* [atlas](https://atlasgo.io) - Manage your database schema as code. ![GitHub last commit](https://img.shields.io/github/last-commit/ariga/atlas?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariga/atlas?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ariga/atlas?style=flat-square)
+* [ent](https://github.com/ent/ent) - An entity framework for Go. ![GitHub last commit](https://img.shields.io/github/last-commit/ent/ent?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ent/ent?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ent/ent?style=flat-square)
 * [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL. ![GitHub last commit](https://img.shields.io/github/last-commit/github/gh-ost?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/github/gh-ost?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/github/gh-ost?style=flat-square)
 * [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
 ![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
@@ -509,6 +513,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Amos Szust](https://github.com/AmosSzust)
+* [Ariel Mashraki](https://github.com/a8m)
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Asaf Cohen](https://github.com/asafc)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
@@ -557,6 +562,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Ran Isenberg](https://ranthebuilder.cloud/)
 * [Raz Luvaton](https://github.com/rluvaton)
 * [Ron Klein](https://heblog.ronklein.co.il/)
+* [Rotem Tamir](https://github.com/rotemtam)
 * [Sawyer X](https://github.com/xsawyerx)
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Shahar Kazaz](https://github.com/shaharkazaz)
