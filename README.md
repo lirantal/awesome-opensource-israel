@@ -598,6 +598,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [PyConIL](https://pycon.org.il/) - Annual Python conference
 
 ## Meetups / User Groups
+* [Maakaf](https://maakaf.com/) - An Israeli open-source community dedicated to making the concept of open source more accessible and encouraging developers to contribute to open-source projects.
 * [DataTalks](https://www.meetup.com/DataHack/) - A meetup series of deep technical ML talks pairing industry with academia speakers, each hosted at a different company.
 * [JavaScript Israel](https://www.meetup.com/javascript-israel/) - A place for the Israeli Javascript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.
 * [KaggleIL](https://www.facebook.com/groups/kaggleil/) - A community of Kaggle practitioners gathering for shared work and knowledge sharing around ongoing Kaggle competitions.
