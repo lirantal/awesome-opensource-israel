@@ -36,6 +36,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [ruby](#ruby)
   - [rust](#rust)
   - [shell](#shell)
+  - [swift](#swift)
   - [typescript](#typescript)
   - [vue](#vue)
   - [unknown language](#unknown-language)
@@ -290,6 +291,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
 
+### swift
+* [ILrail-bar](https://github.com/drehelis/ILrail-bar) - A sleek and efficient macOS menu bar app for tracking Israel Railways train schedules in real-time. ![GitHub last commit](https://img.shields.io/github/last-commit/drehelis/ilrail-bar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/drehelis/ilrail-bar?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/drehelis/ilrail-bar?style=flat-square "GitHub stars")
+
  ### typescript
 * [@ngneat/effects](https://github.com/ngneat/effects) - 🪄 A framework-agnostic RxJS effects implementation ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/effects?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/effects?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/effects?style=flat-square)
 * [@ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/falso?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/falso?style=flat-square)
@@ -334,6 +338,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Wiki Location](https://github.com/noam-honig/wikiloc) - Displays wikipedia articles based on your current location (currently in hebrew). ![GitHub last commit](https://img.shields.io/github/last-commit/noam-honig/wikiloc?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/noam-honig/wikiloc?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/noam-honig/wikiloc?style=flat-square)
 
 ### vue
+* [gcp-emulator-ui](https://github.com/drehelis/gcp-emulator-ui) - A modern web interface for managing Google Cloud Platform emulator services. ![GitHub last commit](https://img.shields.io/github/last-commit/drehelis/gcp-emulator-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/drehelis/gcp-emulator-ui?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/drehelis/gcp-emulator-ui?style=flat-square) 
 * [Overlay](https://github.com/os-scar/overlay) - Overlay is a browser extension helping developers evaluate open source packages before picking them. ![GitHub last commit](https://img.shields.io/github/last-commit/os-scar/overlay?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/os-scar/overlay?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/os-scar/overlay?style=flat-square) 
 * [WhatsNext (Client)](https://stockdiv.com/whatsnext/#/) - WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square) 
 
@@ -525,6 +530,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Asaf Cohen](https://github.com/asafc)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Benjamin Gruenbaum](https://github.com/benjamingr)
+* [Danny Rehelis](https://github.com/drehelis)
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
