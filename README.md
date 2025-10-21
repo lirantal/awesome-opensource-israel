@@ -605,10 +605,10 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [PyConIL](https://pycon.org.il/) - Annual Python conference
 
 ## Meetups / User Groups
-* [Maakaf](https://maakaf.com/) - An Israeli open-source community dedicated to making the concept of open source more accessible and encouraging developers to contribute to open-source projects.
 * [DataTalks](https://www.meetup.com/DataHack/) - A meetup series of deep technical ML talks pairing industry with academia speakers, each hosted at a different company.
 * [JavaScript Israel](https://www.meetup.com/javascript-israel/) - A place for the Israeli Javascript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.
 * [KaggleIL](https://www.facebook.com/groups/kaggleil/) - A community of Kaggle practitioners gathering for shared work and knowledge sharing around ongoing Kaggle competitions.
+* [Maakaf](https://maakaf.com/) - An Israeli open-source community dedicated to making the concept of open source more accessible and encouraging developers to contribute to open-source projects.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
 * [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
