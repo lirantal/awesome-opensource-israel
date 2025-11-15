@@ -22,6 +22,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [assembly](#assembly)
   - [c](#c)
   - [css](#css)
+  - [erlang](#erlang)
   - [go](#go)
   - [html](#html)
   - [java](#java)
@@ -30,10 +31,12 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
   - [perl](#perl)
   - [php](#php)
   - [python](#python)
+  - [qwik](#qwik)
   - [react](#react)
   - [ruby](#ruby)
   - [rust](#rust)
   - [shell](#shell)
+  - [swift](#swift)
   - [typescript](#typescript)
   - [vue](#vue)
   - [unknown language](#unknown-language)
@@ -52,10 +55,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ## Projects by main language
 
 ### angular
-
 * [@ngneat/bind-query-params](https://github.com/ngneat/bind-query-params) - Sync URL Query Params with Angular Form Controls ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/bind-query-params?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/bind-query-params?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/bind-query-params?style=flat-square)
 * [@ngneat/cashew](https://github.com/ngneat/cashew) - 🐿 A flexible and straightforward library that caches HTTP requests in Angular ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/cashew?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/cashew?style=flat-square)
-* [@ngneat/cmdk](https://github.com/ngneat/cmdk) - Fast, composable, unstyled command menu for Angular. Directly inspired from pacocoursey/cmdk ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cmdk?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/cmdk?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/cmdk?style=flat-square)
 * [@ngneat/dialog](https://github.com/ngneat/dialog) - 👻 A simple to use, highly customizable, and powerful modal for Angular Applications ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/dialog?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/dialog?style=flat-square)
 * [@ngneat/dirty-check-forms](https://github.com/ngneat/dirty-check-forms) - 🐬Detect Unsaved Changes in Angular Forms ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dirty-check-forms?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/dirty-check-forms?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/dirty-check-forms?style=flat-square)
 * [@ngneat/elf](https://github.com/ngneat/elf/) - 🧙‍♀️ A Reactive Store with Magical Powers ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/elf?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/elf?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/elf?style=flat-square)
@@ -82,11 +83,18 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square)
 
+### erlang
+* [Nerlnet](https://github.com/leondavi/NErlNet) - A framework for research and deployment of distributed machine learning clusters on IoT devices. ![GitHub last commit](https://img.shields.io/github/last-commit/leondavi/NErlNet?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/leondavi/NErlNet?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/leondavi/NErlNet?style=flat-square)
 
 ### go
 * [@raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your 
 ic research to an artifact that engineers can deploy easily. ![GitHub last commit](https://img.shields.io/github/last-commit/raptor-ml/raptor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/raptor-ml/raptor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/raptor-ml/raptor?style=flat-square)
+* [atlas](https://atlasgo.io) - Manage your database schema as code. ![GitHub last commit](https://img.shields.io/github/last-commit/ariga/atlas?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariga/atlas?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ariga/atlas?style=flat-square)
+* [ent](https://github.com/ent/ent) - An entity framework for Go. ![GitHub last commit](https://img.shields.io/github/last-commit/ent/ent?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ent/ent?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ent/ent?style=flat-square)
+* [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL. ![GitHub last commit](https://img.shields.io/github/last-commit/github/gh-ost?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/github/gh-ost?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/github/gh-ost?style=flat-square)
 * [Otterize network mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image
 ![GitHub last commit](https://img.shields.io/github/last-commit/otterize/network-mapper?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/otterize/network-mapper?style=flat-square)
@@ -98,7 +106,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 ![GitHub last commit](https://img.shields.io/github/last-commit/yonahd/kor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonahd/kor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/yonahd/kor?style=flat-square)
-
+* [vitess](https://vitess.io/) - a database clustering system for horizontal scaling of MySQL. 🇮🇱 in core team. ![GitHub last commit](https://img.shields.io/github/last-commit/vitessio/vitess?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/vitessio/vitess?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vitessio/vitess?style=flat-square)
 
 ### html
 * [Broadlink Manager](https://github.com/t0mer/broadlinkmanager-docker) - Flask based application for managing broadlink RM Devices (IR/RF). ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/broadlinkmanager-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/broadlinkmanager-docker?style=flat-square "GitHub top language")
@@ -109,7 +117,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
-
 
 ### java
 * [alexa-skills-tester](https://github.com/TomerFi/alexa-skills-tester) - Testing tools for Alexa skills written in Java. ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/alexa-skills-tester?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/alexa-skills-tester?style=flat-square)
@@ -174,6 +181,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/TomerFi/aioswitcher?style=flat-square)
+* [activations-plus](https://github.com/DanielAvdar/activations-plus) - Collection of advanced activation functions for deep learning.  
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielAvdar/activations-plus?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/DanielAvdar/activations-plus?style=flat-square) ![codecov](https://codecov.io/gh/DanielAvdar/activations-plus/branch/main/graph/badge.svg?token=CODECOV_TOKEN&style=flat-square) ![PyPI](https://img.shields.io/pypi/v/activations-plus?style=flat-square)
 * [Apprise api bridge](https://github.com/t0mer/apprise-api-bridge) - Send multi channel notification using single endpoint. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/apprise-api-bridge?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/apprise-api-bridge?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/apprise-api-bridge?style=flat-square "GitHub stars")
 * [Arpspoof Docker](https://github.com/t0mer/Arpspoof-Docker) - Cut internet connection for any device in the network, no agent needed. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Arpspoof-Docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Arpspoof-Docker?style=flat-square)
@@ -188,7 +197,6 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat-square "GitHub stars")
 * [cloudflared-mon](https://github.com/t0mer/cloudflared-mon) - Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/cloudflared-mon?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/cloudflared-mon?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/cloudflared-mon?style=flat-square)
-
 * [Cloudify](https://github.com/cloudify-cosmo/cloudify-manager) - Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud. ![GitHub last commit](https://img.shields.io/github/last-commit/cloudify-cosmo/cloudify-manager?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/cloudify-cosmo/cloudify-manager?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cloudify-cosmo/cloudify-manager?style=flat-square)
 * [Debug Toolkit](https://github.com/robusta-dev/debug-toolkit/) - A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware. ![GitHub last commit](https://img.shields.io/github/last-commit/robusta-dev/debug-toolkit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/robusta-dev/debug-toolkit?style=flat-square)
@@ -205,11 +213,15 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=flat-square)
 * [ma-nish](https://github.com/t0mer/ma-nish) - an unofficial python wrapper for Whatsapp cloud api ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ma-nish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ma-nish?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/ma-nish?style=flat-square)
+* [ml-orchestrator](https://github.com/DanielAvdar/ml-orchestrator) - Software engineering approach for building kubeflow components.  
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielAvdar/ml-orchestrator?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/DanielAvdar/ml-orchestrator?style=flat-square) ![codecov](https://codecov.io/gh/DanielAvdar/ml-orchestrator/branch/main/graph/badge.svg?token=CODECOV_TOKEN&style=flat-square) ![PyPI](https://img.shields.io/pypi/v/ml-orchestrator?style=flat-square)
 * [OPAL](https://github.com/permitio/opal) - OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data  in realtime and pushing live updates to your agents. ![GitHub last commit](https://img.shields.io/github/last-commit/permitio/opal?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/permitio/opal?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/permitio/opal?style=flat-square)
 * [pandas-pyarrow](https://github.com/DanielAvdar/pandas-pyarrow) - Seamlessly switch Pandas DataFrame backend to PyArrow. ![GitHub last commit](https://img.shields.io/github/last-commit/DanielAvdar/pandas-pyarrow?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/DanielAvdar/pandas-pyarrow?style=flat-square) [![version](https://img.shields.io/pypi/v/pandas-pyarrow)](https://img.shields.io/pypi/v/pandas-pyarrow)[![codecov](https://codecov.io/gh/DanielAvdar/pandas-pyarrow/graph/badge.svg?token=N0V9KANTG2)](https://codecov.io/gh/DanielAvdar/pandas-pyarrow)
 * [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames. ![GitHub last commit](https://img.shields.io/github/last-commit/pdpipe/pdpipe?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/pdpipe/pdpipe?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square)
+* [prob-spaces](https://github.com/DanielAvdar/prob-spaces) - Probability Distributions from Gymnasium Spaces.  
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielAvdar/prob-spaces?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/DanielAvdar/prob-spaces?style=flat-square) ![codecov](https://codecov.io/gh/DanielAvdar/prob-spaces/branch/main/graph/badge.svg?token=CODECOV_TOKEN&style=flat-square) ![PyPI](https://img.shields.io/pypi/v/prob-spaces?style=flat-square)
 * [PyDigger](https://github.com/szabgab/pydigger.com) - Collecting and analyzing data about Python projects on PyPI ![GitHub last commit](https://img.shields.io/github/last-commit/szabgab/pydigger.com?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/szabgab/pydigger.com?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/szabgab/pydigger.com?style=flat-square)
 * [PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS ![GitHub last commit](https://img.shields.io/github/last-commit/pythonnest/pynest?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/pythonnest/pynest?style=flat-square)
@@ -225,6 +237,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/NivEz/scipi?style=flat-square)
 * [Shmessy](https://github.com/ohadmata/shmessy) - If your data is messy - Use Shmessy! ![GitHub last commit](https://img.shields.io/github/last-commit/ohadmata/shmessy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ohadmata/shmessy?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ohadmata/shmessy?style=flat-square)
+* [tabnet](https://github.com/DanielAvdar/tabnet) - PyTorch implementation of TabNet.  
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielAvdar/tabnet?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/DanielAvdar/tabnet?style=flat-square) ![codecov](https://codecov.io/gh/DanielAvdar/tabnet/branch/main/graph/badge.svg?token=CODECOV_TOKEN&style=flat-square) ![PyPI](https://img.shields.io/pypi/v/tabnet?style=flat-square)
 * [voicy](https://github.com/t0mer/voicy) - Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/voicy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/voicy?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/voicy?style=flat-square)
 * [Wazy](https://github.com/t0mer/Wazy) - Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Wazy?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Wazy?style=flat-square)
@@ -234,6 +248,9 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Xiaomi Token Extractor](https://github.com/t0mer/Xiaomi-Token-Extractor) - Small and simple web application for extracting Xiaomi device tokens. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Xiaomi-Token-Extractor?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square)
 
+### qwik
+* [qwik](https://qwik.dev) - A web framework that promises instant-loading web apps, without effort. Built with TypeScript and Rust. 🇮🇱 co-lead. ![GitHub last commit](https://img.shields.io/github/last-commit/QwikDev/qwik?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/QwikDev/qwik?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square "GitHub stars")
+* [qwik-ui](https://qwikui.com) - Headless & styled copy-paste components automatically optimized for you. ![GitHub last commit](https://img.shields.io/github/last-commit/qwikifiers/qwik-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/qwikifiers/qwik-ui?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/qwikifiers/qwik-ui?style=flat-square "GitHub stars")
 
 ### react
 * [DataBus](https://github.com/hasadna/open-bus-map-search) An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).
@@ -261,17 +278,23 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ### rust
 * [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line. ![GitHub last commit](https://img.shields.io/github/last-commit/MordechaiHadad/bob?style=flat-square%20%22GitHub%20last%20commit%22 "Github last commit") ![GitHub top language](https://img.shields.io/github/languages/top/MordechaiHadad/bob?style=flat-square%20%22GitHub%20top%20language%22 "Github top language") ![Github stars](https://img.shields.io/github/stars/MordechaiHadad/bob?style=flat-square "Github stars")
 * [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in Rust. ![GitHub last commit](https://img.shields.io/github/last-commit/Schniz/fnm?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Schniz/fnm?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Schniz/fnm?style=flat-square)
+* [israel-weather-rs](https://github.com/barakplasma/israel-weather-rs) - CLI tool to check the weather in Israel via ims.gov.il data. ![GitHub last commit](https://img.shields.io/github/last-commit/barakplasma/israel-weather-rs?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/barakplasma/israel-weather-rs?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/barakplasma/israel-weather-rs?style=flat-square)
 * [Show Me A Graph](https://github.com/aantn/smag) - Easily create graphs from cli commands and view them in the terminal. Like the `watch` command but with a graph of the output. ![GitHub last commit](https://img.shields.io/github/last-commit/aantn/smag?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/aantn/smag?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/aantn/smag?style=flat-square)
 * [Topgrade](https://github.com/r-darwish/topgrade) - A single command to upgrade multiple package managers. ![GitHub last commit](https://img.shields.io/github/last-commit/r-darwish/topgrade?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/r-darwish/topgrade?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/r-darwish/topgrade?style=flat-square)
 * [CoCmd](https://cocmd.org) - super fast dev projects onboarding and playbooks ![Github stars](https://img.shields.io/github/stars/cocmd/cocmd?style=flat-square "Github stars") ![](https://img.shields.io/github/v/release/cocmd/cocmd)
+* [mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. ![GitHub last commit](https://img.shields.io/github/last-commit/metalbear-co/mirrord?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/metalbear-co/mirrord?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square)
+
 ### shell
 * [CustomPiOS](https://github.com/guysoft/CustomPiOS) - A RaspberryPI and other ARM devices distribution builder ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/CustomPiOS?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/CustomPiOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/CustomPiOS?style=flat-square)
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
 
+### swift
+* [ILrail-bar](https://github.com/drehelis/ILrail-bar) - A sleek and efficient macOS menu bar app for tracking Israel Railways train schedules in real-time. ![GitHub last commit](https://img.shields.io/github/last-commit/drehelis/ilrail-bar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/drehelis/ilrail-bar?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/drehelis/ilrail-bar?style=flat-square "GitHub stars")
 
  ### typescript
 * [@ngneat/effects](https://github.com/ngneat/effects) - 🪄 A framework-agnostic RxJS effects implementation ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/effects?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ngneat/effects?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ngneat/effects?style=flat-square)
@@ -283,13 +306,25 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Better Rail](https://github.com/better-rail/app) - An alternative mobile client for Israel Railways ![GitHub last commit](https://img.shields.io/github/last-commit/better-rail/app?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/better-rail/app?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/better-rail/app?style=flat-square)
 * [Bit](https://github.com/teambit/bit) - An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/teambit/bit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square)
 * [bulk-npm-publish](https://github.com/rluvaton/bulk-npm-publish) - CLI Tool for Publishing Multiple NPM packages from verdaccio storage ![GitHub stars](https://img.shields.io/github/stars/rluvaton/bulk-npm-publish?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/bulk-npm-publish?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/bulk-npm-publish?style=flat-square)
+* [CASANET](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network ![GitHub last commit](https://img.shields.io/github/last-commit/casanet/casanet-server?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/casanet/casanet-server?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/casanet/casanet-server?style=flat-square)
 * [Caspion](https://github.com/brafdlog/caspion) - Automated budget tracking from Israeli financial institutions ![GitHub last commit](https://img.shields.io/github/last-commit/brafdlog/caspion?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/brafdlog/caspion?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/brafdlog/caspion?style=flat-square)
 * [Configu](https://github.com/configu/configu) - A simple, modern, and secure standard for managing and collaborating software configurations ![GitHub last commit](https://img.shields.io/github/last-commit/configu/configu?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/configu/configu?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/configu/configu?style=flat-square)
 * [DBZar](https://github.com/nitzano/dbzar) - Agnostic DB Anonymizer ![GitHub last commit](https://img.shields.io/github/last-commit/nitzano/dbzar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/nitzano/dbzar?style=flat-square "GitHub top language")
 * [electra-smart-js-client](https://github.com/rluvaton/electra-smart-js-client) - Electra Smart js client ![GitHub stars](https://img.shields.io/github/stars/rluvaton/electra-smart-js-client?style=flat-square "GitHub stars") ![GitHub last commit](https://img.shields.io/github/last-commit/rluvaton/electra-smart-js-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/rluvaton/electra-smart-js-client?style=flat-square)
+* [flyde](https://www.flyde.dev) - Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js. ![GitHub last commit](https://img.shields.io/github/last-commit/flydelabs/flyde?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/flydelabs/flyde?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/flydelabs/flyde?style=flat-square)
+* [Inbox Zero](https://github.com/elie222/inbox-zero) - AI-powered email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups. ![GitHub last commit](https://img.shields.io/github/last-commit/elie222/inbox-zero?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/elie222/inbox-zero?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/elie222/inbox-zero?style=flat-square)
 * [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies ![GitHub last commit](https://img.shields.io/github/last-commit/eshaham/israeli-bank-scrapers?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/eshaham/israeli-bank-scrapers?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/eshaham/israeli-bank-scrapers?style=flat-square)
+* [kysely](https://kysely.dev) - The type-safe SQL query builder. 🇮🇱 co-lead. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely?style=flat-square)
+* [kysely-ctl](https://github.com/kysely-org/kysely-ctl) - Command-line tool for Kysely. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-ctl?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-ctl?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-ctl?style=flat-square)
+* [kysely-knex](https://github.com/kysely-org/kysely-knex) - A toolkit (dialect, type translators, custom migration source, etc.) that allows using your existing Knex setup with Kysely. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-knex?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-knex?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-knex?style=flat-square)
+* [kysely-postgres-js](https://github.com/kysely-org/kysely-postgres-js) - Kysely dialect for PostgreSQL using the Postgres.js client. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-postgres-js?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-postgres-js?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-postgres-js?style=flat-square)
+* [kysely-replication](https://github.com/kysely-org/kysely-replication) - Replication-aware Kysely query execution. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-replication?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-replication?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-replication?style=flat-square)
+* [kysely-sequelize](https://github.com/kysely-org/kysely-sequelize) - A toolkit (dialect, type translators, etc.) that allows using your existing Sequelize instance with Kysely. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-sequelize?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-sequelize?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-sequelize?style=flat-square)
+* [kysely-supabase](https://github.com/kysely-org/kysely-supabase) - A toolkit (type translators for now) that allows using your existing Supabase setup with Kysely. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-supabase?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-supabase?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-supabase?style=flat-square)
+* [kysely-typeorm](https://github.com/kysely-org/kysely-typeorm) - A toolkit (dialect, type translators, etc.) that allows using your existing TypeORM setup with Kysely. ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely-typeorm?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/kysely-org/kysely-typeorm?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely-typeorm?style=flat-square)
 * [Mathberet](https://github.com/yonatanmgr/mathberet) - Digital Mathematics Notebook. ![GitHub last commit](https://img.shields.io/github/last-commit/yonatanmgr/mathberet?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/yonatanmgr/mathberet?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/yonatanmgr/mathberet)
 * [Mathmate](https://github.com/Mathmate-il) - Open source project to make mathematics accessible to all via a convenient platform to share and inquire on mathematical concepts. ![GitHub last commit](https://img.shields.io/github/last-commit/Mathmate-il/mathmate-server?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/Mathmate-il/mathmate-server?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Mathmate-il)
+* [Merlinn](https://github.com/merlinn-co/merlinn) - Open-source AI on-call developer that helps teams investigate issues faster. ![GitHub last commit](https://img.shields.io/github/last-commit/merlinn-co/merlinn?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/merlinn-co/merlinn?style=flat-square) ![Github stars](https://img.shields.io/github/stars/merlinn-co/merlinn?style=flat-square)
 * [Neuledge](https://github.com/neuledge/engine-js) - Universal language to model, share, and interact with databases. ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/neuledge/engine-js?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/neuledge/engine-js?style=flat-square)
 * [Nolybab-js](https://github.com/fima-taf/nolybab-js) - A CLI based tool for converting i18n to csv and csv to i18n files. ![GitHub last commit](https://img.shields.io/github/last-commit/fima-taf/nolybab-js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fima-taf/nolybab-js?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fima-taf/nolybab-js?style=flat-square)
 * [Novu](https://github.com/novuhq/novu) - Notification infrastructure with fully functional embedded notification center ![GitHub last commit](https://img.shields.io/github/last-commit/novuhq/novu?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/novuhq/novu?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=flat-square)
@@ -306,6 +341,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Wiki Location](https://github.com/noam-honig/wikiloc) - Displays wikipedia articles based on your current location (currently in hebrew). ![GitHub last commit](https://img.shields.io/github/last-commit/noam-honig/wikiloc?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/noam-honig/wikiloc?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/noam-honig/wikiloc?style=flat-square)
 
 ### vue
+* [gcp-emulator-ui](https://github.com/drehelis/gcp-emulator-ui) - A modern web interface for managing Google Cloud Platform emulator services. ![GitHub last commit](https://img.shields.io/github/last-commit/drehelis/gcp-emulator-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/drehelis/gcp-emulator-ui?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/drehelis/gcp-emulator-ui?style=flat-square) 
 * [Overlay](https://github.com/os-scar/overlay) - Overlay is a browser extension helping developers evaluate open source packages before picking them. ![GitHub last commit](https://img.shields.io/github/last-commit/os-scar/overlay?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/os-scar/overlay?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/os-scar/overlay?style=flat-square) 
 * [WhatsNext (Client)](https://stockdiv.com/whatsnext/#/) - WhatsNext, connect through similar life events. [](https://github.com/AmosSzust/whatsnext-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AmosSzust/whatsnext-client?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/AmosSzust/whatsnext-client?style=flat-square)![GitHub stars](https://img.shields.io/github/stars/AmosSzust/whatsnext-client?style=flat-square) 
 
@@ -448,6 +484,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Logz.io](https://github.com/logzio)
 * [Meatlbear](https://github.com/metalbear-co)
 * [Memphis](https://github.com/memphisdev)
+* [Merlinn](https://github.com/merlinn-co)
 * [Monday](https://github.com/mondaycom)
 * [MyHeritage](https://github.com/myheritage)
 * [Nexmo](https://github.com/Nexmo)
@@ -491,10 +528,12 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Almog Baku](https://github.com/AlmogBaku)
 * [Amos Haviv](https://github.com/amoshaviv)
 * [Amos Szust](https://github.com/AmosSzust)
+* [Ariel Mashraki](https://github.com/a8m)
 * [Artyom Beilis](https://github.com/artyom-beilis)
 * [Asaf Cohen](https://github.com/asafc)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Benjamin Gruenbaum](https://github.com/benjamingr)
+* [Danny Rehelis](https://github.com/drehelis)
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
 * [Eran Geva](https://github.com/erasta)
@@ -502,12 +541,14 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Evyatar Alush](https://github.com/ealush)
 * [Gaal Yahas](https://github.com/gaal)
 * [Gabor Szabo](https://github.com/szabgab)
+* [Gabriel Grinberg](https://github.com/GabiGrin)
 * [Gal Schlezinger](https://github.com/Schniz)
 * [Gal Weizman](https://github.com/weizman)
 * [Gilad Novik](https://github.com/giladno)
 * [Gilad Shoham](https://github.com/GiladShoham)
 * [Guy Sheffer](https://github.com/guysoft)
 * [Haim Cohen](https://github.com/sk3pp3r)
+* [Haim Kastner](https://github.com/haimkastner)
 * [Ido Cohen](https://github.com/idoco)
 * [Igal Klebanov](https://github.com/igalklebanov)
 * [Ilan Joselevich](https://github.com/Kranzes)
@@ -537,6 +578,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Ran Isenberg](https://ranthebuilder.cloud/)
 * [Raz Luvaton](https://github.com/rluvaton)
 * [Ron Klein](https://heblog.ronklein.co.il/)
+* [Rotem Tamir](https://github.com/rotemtam)
 * [Sawyer X](https://github.com/xsawyerx)
 * [Shachar Shemesh](https://www.shemesh.biz/)
 * [Shahar Kazaz](https://github.com/shaharkazaz)
@@ -546,6 +588,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Shay Gover](https://gitlab.com/shaygover)
 * [Shay Palachy-Affek](https://github.com/shaypal5)
 * [Shlomi Fish](https://www.shlomifish.org/open-source/projects/)
+* [Shlomi Noach](https://github.com/shlomi-noach)
 * [Stav Shamir](https://github.com/stavshamir)
 * [Tomer Brisker](https://github.com/tbrisker)
 * [Tomer Figenblat](https://github.com/TomerFi)
@@ -567,12 +610,14 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [DataTalks](https://www.meetup.com/DataHack/) - A meetup series of deep technical ML talks pairing industry with academia speakers, each hosted at a different company.
 * [JavaScript Israel](https://www.meetup.com/javascript-israel/) - A place for the Israeli Javascript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.
 * [KaggleIL](https://www.facebook.com/groups/kaggleil/) - A community of Kaggle practitioners gathering for shared work and knowledge sharing around ongoing Kaggle competitions.
+* [Maakaf](https://maakaf.com/) - An Israeli open-source community dedicated to making the concept of open source more accessible and encouraging developers to contribute to open-source projects.
 * [Open Source Hack Nights](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/) - Held every month on the second Sunday of the month in Tel Aviv.
 * [Pull Request Community](https://www.meetup.com/meetup-group-nszjizrg/) - A meetup group for anyone interested in Programming, Technology, software development and especially open source, for all skill levels.
 * [PyWebIL](https://pyweb-il.github.io/) - Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 
 ## Israeli Tech AwesomeLists
 * [angular-companies-israel](https://github.com/eranshmil/angular-companies-israel)
+* [awesome-israeli-jewish-home-assistant](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant)
 * [awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
 * [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
 * [rust-tlv/companies](https://github.com/rust-tlv/companies)
