@@ -354,7 +354,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf) - Cheat-Sheet Collection for DevOps, Engineers, IT and more.  ![GitHub stars](https://img.shields.io/github/stars/sk3pp3r/cheat-sheet-pdf?style=social) 
 * [CppCMS](http://cppcms.com/wikipp/en/page/main) - a C++ Web Development Framework (not a CMS). 
 * [Culmus](http://culmus.sourceforge.net/) - a collection of free-as-in-speech Hebrew fonts, by Maxim Iorsh.
-* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire. 
+* [Freecell Solver](http://fc-solve.shlomifish.org/) - a C library and some standalone command line programs to solve games of Freecell and similar variants of card Solitaire.
+* [HA-Red-Alerts-Model-Automations](https://github.com/danielrosehill/HA-Red-Alerts-Model-Automations) - Automations and hardware recommendations for Home Assistant and Pikud HaOref integration. ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/HA-Red-Alerts-Model-Automations?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/danielrosehill/HA-Red-Alerts-Model-Automations?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/HA-Red-Alerts-Model-Automations?style=flat-square)
 * [Krusader](https://krusader.org/) - an advanced twin panel (commander style) file manager for KDE.
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - The Linux “Kernel Virtual Machine”, an x86 virtualization solution for the Linux kernel.
 * [OctoPi](https://octopi.octoprint.org/) - RaspberryPI distribution for controlling 3D printers over the web.
