@@ -364,7 +364,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - A deliberately insecure realistic AWS Lambda serverless application
 * [PySol FC](https://pysolfc.sourceforge.io/) - an open-source and feature-rich collection of Solitaire games. (Adopted from previous maintainers.)
 * [Scylla](https://en.wikipedia.org/wiki/Scylla_%28database%29) - A rewrite of Cassandra DB in C++ that aims to be faster.
-* [Solver and Generator for “ABC Path”](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
+* [Shelter-Finder-Jerusalem](https://github.com/danielrosehill/Shelter-Finder-Jerusalem) - Android app for finding nearby public shelters in Jerusalem. ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Shelter-Finder-Jerusalem?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/danielrosehill/Shelter-Finder-Jerusalem?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Shelter-Finder-Jerusalem?style=flat-square)
+* [Solver and Generator for "ABC Path"](https://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/)
  
 
 
