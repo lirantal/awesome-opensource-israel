@@ -115,6 +115,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/elementary-data/elementary?style=flat-square "GitHub stars")
 * [Gotenberg UI](https://github.com/t0mer/gotenberg-ui) - Web application for interacting with [Gotenberg API]("https://gotenberg.dev/docs/about") ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/gotenberg-ui?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/gotenberg-ui?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square)
+* [Oref-GPT](https://github.com/danielrosehill/Oref-GPT) - N8N automation that uses TwitterAPI.io to retrieve real-time social media data about rocket alerts in Israel. ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Oref-GPT?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/danielrosehill/Oref-GPT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Oref-GPT?style=flat-square)
 * [SafeUrl](https://github.com/t0mer/SafeUrl) - Lite web application intended to help us validate any URL safely before clicking it. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/SafeUrl?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/SafeUrl?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/SafeUrl?style=flat-square)
 
