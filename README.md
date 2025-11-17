@@ -539,6 +539,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Asaf Cohen](https://github.com/asafc)
 * [Barak Schoster Goihman](https://github.com/schosterbarak)
 * [Benjamin Gruenbaum](https://github.com/benjamingr)
+* [Daniel Rosehill](https://github.com/danielrosehill)
 * [Danny Rehelis](https://github.com/drehelis)
 * [Eldad Fux](https://github.com/eldadfux)
 * [Eli Segal](https://github.com/rockem)
