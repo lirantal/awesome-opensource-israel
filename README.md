@@ -157,6 +157,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/licenseye?style=flat-square "GitHub stars")
 * [lite-fifo](https://github.com/kleinron/lite-fifo) - Lightweight and efficient implementations of FIFO/Queue, written in pure javascript ![GitHub last commit](https://img.shields.io/github/last-commit/kleinron/lite-fifo?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/kleinron/lite-fifo?style=flat-square "GitHub top language")
 ![GitHub stars](https://img.shields.io/github/stars/kleinron/lite-fifo?style=flat-square "GitHub stars")
+* [Miklat-MCP](https://github.com/danielrosehill/Miklat-MCP) - MCP server enabling AI agents to guide users towards public shelters in Israel. ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Miklat-MCP?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/danielrosehill/Miklat-MCP?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP?style=flat-square)
 * [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) - Over 100 Node.js patterns and practices including code examples
 ![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat-square "GitHub stars")
 * [Redash-in-js](https://github.com/rluvaton/redash-in-js) - Run Query on multiple environments through Redash
