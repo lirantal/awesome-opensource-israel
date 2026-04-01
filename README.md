@@ -297,6 +297,8 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [FullPageOS](https://github.com/guysoft/FullPageOS) - A RaspberryPI distribution to display a full page browser on boot (kiosk mode) ![GitHub last commit](https://img.shields.io/github/last-commit/guysoft/FullPageOS?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/guysoft/FullPageOS?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=flat-square)
 
+* [red-alert-statusline](https://github.com/lirantal/red-alert-statusline) - A Claude Code status line for Pikud HaOref red alerts. ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/red-alert-statusline?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/lirantal/red-alert-statusline?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lirantal/red-alert-statusline?style=flat-square)
+
 ### swift
 * [ILrail-bar](https://github.com/drehelis/ILrail-bar) - A sleek and efficient macOS menu bar app for tracking Israel Railways train schedules in real-time. ![GitHub last commit](https://img.shields.io/github/last-commit/drehelis/ilrail-bar?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/drehelis/ilrail-bar?style=flat-square "GitHub top language") ![GitHub stars](https://img.shields.io/github/stars/drehelis/ilrail-bar?style=flat-square "GitHub stars")
 
