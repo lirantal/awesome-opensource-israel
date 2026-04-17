@@ -77,6 +77,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/donno2048/snake?style=flat-square)
 
 ### c
+* [ariannamethod.ai](https://github.com/ariannamethod/ariannamethod.ai) - Complete machine learning language for transformers with integrated field physics in two C files. ![GitHub last commit](https://img.shields.io/github/last-commit/ariannamethod/ariannamethod.ai?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariannamethod/ariannamethod.ai?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ariannamethod/ariannamethod.ai?style=flat-square)
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 
