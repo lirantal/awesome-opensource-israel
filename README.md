@@ -78,9 +78,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 ### c
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 * [pitomadom.c](https://github.com/ariannamethod/pitomadom.c) - Hebrew morphological transformer with Semitic root extraction and gematria numerical layer in C. ![GitHub last commit](https://img.shields.io/github/last-commit/ariannamethod/pitomadom.c?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariannamethod/pitomadom.c?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ariannamethod/pitomadom.c?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 
 ### css
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
