@@ -77,6 +77,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ![GitHub stars](https://img.shields.io/github/stars/donno2048/snake?style=flat-square)
 
 ### c
+* [doe](https://github.com/ariannamethod/doe) - Democracy of Experts wrapping any GGUF model with living LoRA parliament, Hebbian plasticity, and inference-time adaptation. ![GitHub last commit](https://img.shields.io/github/last-commit/ariannamethod/doe?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariannamethod/doe?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ariannamethod/doe?style=flat-square)
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 
