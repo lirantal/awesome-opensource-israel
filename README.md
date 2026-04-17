@@ -78,6 +78,8 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 
 ### c
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
+* [notorch](https://github.com/ariannamethod/notorch) - PyTorch-compatible neural network training library written in pure C with autograd and BLAS acceleration. ![GitHub last commit](https://img.shields.io/github/last-commit/ariannamethod/notorch?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ariannamethod/notorch?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ariannamethod/notorch?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
 
 ### css
