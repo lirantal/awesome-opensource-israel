@@ -586,7 +586,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [Natan Yellin](https://natanyellin.com/open-source/)
 * [Netanel Basal](https://github.com/NetanelBasal)
 * [Nitzan Tomer](https://github.com/nitzantomer)
-* [Noam Brand](https://github.com/noambrand)
+* [Noam Brand](https://github.com/noambrand) ![GitHub followers](https://img.shields.io/github/followers/noambrand?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/noambrand?style=flat-square&label=stars&affiliations=OWNER)
 * [Omer Zak](https://zak.co.il/)
 * [Or Weis](https://github.com/orweis)
 * [Orel Balilti](https://github.com/o-b-one)
