@@ -22,6 +22,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
     - [angular](#angular)
     - [assembly](#assembly)
     - [c](#c)
+    - [csharp](#csharp)
     - [css](#css)
     - [erlang](#erlang)
     - [go](#go)
@@ -79,6 +80,9 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
 ### c
 * [GNU FriBidi](https://github.com/fribidi/fribidi) - a library which implements the Unicode bidirectional text algorithm. ![GitHub last commit](https://img.shields.io/github/last-commit/fribidi/fribidi?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/fribidi/fribidi?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/fribidi/fribidi?style=flat-square)
+
+### csharp
+* [Statecraft: Israel](https://github.com/eyalgolan/statecraft-israel) - A free, open-source strategy game about governing Israel from 15 May 1948, with real ministers, a real map and every fact sourced. ![GitHub last commit](https://img.shields.io/github/last-commit/eyalgolan/statecraft-israel?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/eyalgolan/statecraft-israel?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eyalgolan/statecraft-israel?style=flat-square)
 
 ### css
 * [ocr-docker](https://github.com/t0mer/ocr-docker) - a small, Flask powerd web app, helps us to extract text from images and pdf document using OCR. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/ocr-docker?style=flat-square "GitHub last commit") ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/ocr-docker?style=flat-square)
