@@ -29,6 +29,7 @@ A curated list of awesome Open Source Software made in Israel, and by Israelis.
     - [html](#html)
     - [java](#java)
     - [javascript](#javascript)
+    - [kotlin](#kotlin)
     - [objective-c](#objective-c)
     - [perl](#perl)
     - [php](#php)
@@ -213,6 +214,11 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ![GitHub stars](https://img.shields.io/github/stars/NivEz/telenode?style=flat-square "GitHub stars")
 * [WikipediaGPTPlugin](https://github.com/ShadovvBeast/WikipediaGPTPlugin) - ChatGPT Plugins that enables the model to access Wikipedia ![GitHub last commit](https://img.shields.io/github/last-commit/ShadovvBeast/WikipediaGPTPlugin?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ShadovvBeast/WikipediaGPTPlugin?style=flat-square)
 * [yoradio-station-list-builder](https://github.com/t0mer/yoradio-station-list-builder) - Web app for building yoRadio ESP32 internet radio playlists from 38,000+ stations, running on Cloudflare Workers with a D1 database. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/yoradio-station-list-builder?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/yoradio-station-list-builder?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/t0mer/yoradio-station-list-builder?style=flat-square)
+
+### kotlin
+* [dradis](https://github.com/t0mer/dradis) - Android app that turns a phone into an MQTT endpoint: remote SMS, location, find-my-phone, camera and TTS, with Home Assistant discovery. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/dradis?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/dradis?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/t0mer/dradis?style=flat-square)
+* [Holocron](https://github.com/t0mer/Holocron) - Sideloaded Android app that forwards incoming SMS and RCS messages to webhooks, REST APIs, or MQTT using sender rules, for home-lab automation. ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/Holocron?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/Holocron?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/t0mer/Holocron?style=flat-square)
+
 
 ### objective-c
 * [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native ![GitHub last commit](https://img.shields.io/github/last-commit/wix/react-native-navigation?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wix/react-native-navigation?style=flat-square)
