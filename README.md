@@ -648,6 +648,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 * [angular-companies-israel](https://github.com/eranshmil/angular-companies-israel)
 * [awesome-israeli-jewish-home-assistant](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant)
 * [Awesome-Red-Alerts](https://github.com/danielrosehill/Awesome-Red-Alerts)
+* [awesome-marketing-israel](https://github.com/sagive/awesome-marketing-israel) - A curated list of awesome digital marketing, SEO, and MarTech tools in Israel.
 * [awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
 * [Israel-Related-MCPs](https://github.com/danielrosehill/Israel-Related-MCPs)
 * [israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
