@@ -190,6 +190,7 @@ ic research to an artifact that engineers can deploy easily. ![GitHub last commi
 ### python
 * [adb-api](https://github.com/t0mer/adb-api) - ADB-API is a python-based application to help us control android-based streamers like Xiaomi and more.  ![GitHub last commit](https://img.shields.io/github/last-commit/t0mer/adb-api?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/t0mer/adb-api?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/t0mer/adb-api?style=flat-square)
+* [AI Time Estimator](https://github.com/noambrand/ai-time-estimator) - Answers how long a Claude Code task will take, in AI minutes measured from your own transcripts, and scores itself after every task. ![GitHub last commit](https://img.shields.io/github/last-commit/noambrand/ai-time-estimator?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/noambrand/ai-time-estimator?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/noambrand/ai-time-estimator?style=flat-square)
 * [aioswitcher](https://github.com/TomerFi/aioswitcher) - PyPi module integrating with various Switcher smart devices.
 ![GitHub last commit](https://img.shields.io/github/last-commit/TomerFi/aioswitcher?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/TomerFi/aioswitcher?style=flat-square)
